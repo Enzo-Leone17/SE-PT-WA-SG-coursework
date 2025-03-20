@@ -1,4 +1,8 @@
-function showGreetingMessage(){
+function show_greetings(){
     let clientUsername = document.getElementById("username").value;
-    document.getElementById("welcomeText").innerHTML = "Hello " + clientUsername + ", nice to meet you!";
+    if(clientUsername !== "")
+    {
+        document.getElementById("greetings").innerHTML = "Hello " + clientUsername + 
+        ", nice to meet you!";
+    }
 }
