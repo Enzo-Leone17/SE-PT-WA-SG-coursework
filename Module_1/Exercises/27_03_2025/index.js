@@ -12,7 +12,7 @@ function longestString(fruitArr) {
 
 console.log(longestString(fruits));
 
-//note: works, but with performance issues when using while loop on big data size 
+//note: works, but with performance issues when using while loop on big data size
 /*function removeDuplicates(fruitArr){
     for(let f = 0; f < fruitArr.length; f++)
     {
@@ -28,16 +28,17 @@ console.log(longestString(fruits));
 
 console.log(removeDuplicates(["apple", "banana", "apple", "cherry", "banana"]));*/
 
-
 //optimized version
 function removeDuplicates(fruitArr) {
+  let newFruitArr = [];
   for (let f = 0; f < fruitArr.length; f++) {
-    let newFruitArr = [];
-    if (!newFruitArr.includes(fruitArr[f])) {
+    if (!newFruitArr.includes(fruitArr[f]) && fruitArr[f]) {
       newFruitArr.push(fruitArr[f]);
     }
   }
   return newFruitArr;
 }
 
-console.log(removeDuplicates(["apple", "banana", "apple", "cherry", "banana"]));
+console.log(
+  removeDuplicates(["apple", "banana", "apple", "cherry", "banana"])
+);
