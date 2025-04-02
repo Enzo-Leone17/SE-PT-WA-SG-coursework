@@ -4,6 +4,8 @@ screen.*/
 
 const resultVal = document.getElementById("resultVal");
 
+const userGreetings = document.getElementById("greetings");
+
 function calculate()
 {
     const a = parseFloat(document.getElementById("num1").value);
@@ -53,4 +55,17 @@ function divide(a, b) {
     }
 
     // return Math.abs(a / b);
+}
+
+
+function greetUser()
+{
+    let clientUsername = document.getElementById("username").value
+    if(clientUsername !== '' && clientUsername !== undefined)
+    {
+        userGreetings.innerHTML = "Hello " + clientUsername;
+    }
+    else{
+        userGreetings.innerHTML = '';
+    }
 }
