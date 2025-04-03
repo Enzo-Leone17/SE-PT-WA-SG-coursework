@@ -43,7 +43,7 @@ function multiply(a, b) {
 }
 
 function divide(a, b) {
-    if (b === 0 || a === 0) {
+    if (b === 0) {
         resultVal.innerText = "Error: Division by zero is not allowed.";
     }
     else {
