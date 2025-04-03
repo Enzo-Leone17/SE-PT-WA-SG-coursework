@@ -32,29 +32,23 @@ function calculate()
 
 function add(a, b) {
     resultVal.innerText = "Result: " + (a + b);
-    // return Math.abs(a + b);
 }
 
 function subtract(a, b) {
     resultVal.innerText = "Result: " + (a - b);
-    // return Math.abs(a - b);
 }
 
 function multiply(a, b) {
     resultVal.innerText = "Result: " + (a * b);
-    // return Math.abs(a * b);
 }
 
 function divide(a, b) {
     if (b === 0 || a === 0) {
         resultVal.innerText = "Error: Division by zero is not allowed.";
-        // return "Error: Division by zero is not allowed.";
     }
     else {
         resultVal.innerText = "Result: " + (a / b);
     }
-
-    // return Math.abs(a / b);
 }
 
 
