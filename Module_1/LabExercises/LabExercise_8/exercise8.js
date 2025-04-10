@@ -41,6 +41,7 @@ for (let i = 0; i < predefinedDiceTypes.length; i++) {
   diceSelection.appendChild(diceOption);
 }
 
+// roll button and roll dice with user given parameters
 const rollButton = document.createElement("button");
 rollButton.setAttribute("id", "roll-button");
 rollButton.innerText = "Roll Dice";
@@ -89,9 +90,16 @@ userSelection.contains(rollButton)
   ? null
   : userSelection.appendChild(rollButton);
 
-// create a function to create dice based on user preference
+// variable to store the number of results
 let resultIteration = 0;
 
+/**
+ * create a number of dice based on user input, then roll them
+ * @param {string} diceType d4, d6, d8, d10, d12, d20
+ * @param {number} numOfDice number of dice to roll
+ * @param {*} areaToDisplay element to display the results 
+ * 
+ */
 function createDice(diceType, numOfDice, areaToDisplay) {
   resultIteration++;
   let resultNumber = document.createElement("p");
@@ -112,6 +120,12 @@ function createDice(diceType, numOfDice, areaToDisplay) {
   }
 }
 
+/**
+ * 
+ * @param {*} theDice dice element to animate
+ * @param {*} diceType dice faces e.g 4, 6, 8, 10, 12, 20
+ * @param {*} animDuration animation duration in milliseconds
+ */
 function spinDice(theDice, diceType, animDuration) {
   let animatedRollingDice = setInterval(function () {
     diceType === "6"
@@ -123,7 +137,9 @@ function spinDice(theDice, diceType, animDuration) {
     clearInterval(animatedRollingDice);
   }, animDuration);
 }
-
+/**
+ * clear all results from the screen
+ */
 function clearResults() {
   let diceResults = document.querySelectorAll(".dice-results");
   for (let i = 0; i < diceResults.length; i++) {
