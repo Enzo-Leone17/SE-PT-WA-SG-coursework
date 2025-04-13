@@ -1,0 +1,11 @@
+/* Profile Card Animation */
+
+#dogeProfileCard {
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.5s;
+}
+
+#dogeProfileCard:hover{
+    background-color: rgb(139, 238, 255, 0.2);
+    box-shadow: 10px 10px 5px grey;
+}

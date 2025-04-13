@@ -1,0 +1,25 @@
+Project Brief: Counter App for Workshop Event
+Background:
+You are asked to help design and build a small tool for an upcoming workshop event.
+The team needs a Counter App that will be used by staff during the event to keep track of the number of visitors entering a booth.
+This tool must look clean, simple, and professional. It should work well on both laptop and mobile phone screens.
+
+Step 1: Finding Business Requirements:
+- Show the current number of visitors on the screen.
+- There should be 3 buttons for staff to use:
+- Add (+1 visitor)
+- Minus (-1 visitor)
+- Reset (back to 0)
+
+Step 2: Rules
+- The number cannot go below 0 (because visitors cannot be negative).
+- Set the maximum number of the visitors
+- Send/Display the message / notification to the staff
+- When clicking the Add button → the number should increase by 1.
+- When clicking the Minus button → the number should decrease by 1
+- When clicking Reset → the number should go back to 0
+
+Step 3: What UI should look like
+- The Add, Minus, and Reset buttons should have different colors to avoid mistakes.
+- Having the number to show the current vistors
+- Notification message if it reaches to the limited visitors

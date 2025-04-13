@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tailwind Beginner Website</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100">
+    <!-- Your work here -->
+    <nav class="bg-blue-600">
+      <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+        <div class="relative flex h-16 items-center justify-between">
+          <div
+            class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start"
+          >
+            <div class="flex shrink-0 items-center">
+              <p class="text-white">EventsManagement</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div class="relative isolate px-6 pt-14 lg:px-8">
+      <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <div class="text-center">
+          <h1
+            class="text-5xl font-bold tracking-tight text-balance text-black-600 sm:text-7xl"
+          >
+            Number of visitors currently: <span id="visitorCounter">0</span>
+          </h1>
+          <p
+            class="mt-8 text-lg font-semibold text-pretty text-red-500 sm:text-xl/8"
+            id="alertStaff"
+          ></p>
+          <div class="mt-10 flex items-center justify-center gap-x-6">
+            <button
+              class="rounded-full bg-green-600 px-8 py-8 text-lg font-bold text-white shadow-sm hover:bg-green-800"
+              onclick="addVisitorCount()"
+            >
+              +
+            </button>
+            <button
+              class="rounded-full bg-red-600 px-8 py-8 text-lg font-bold text-white shadow-sm hover:bg-red-800"
+              onclick="minusVisitorCount()"
+            >
+              -
+            </button>
+            <button
+              class="rounded-md bg-blue-600 px-8 py-5 text-lg font-bold text-white shadow-sm hover:bg-blue-800"
+              onclick="resetVisitorCount()"
+            >
+              Reset
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="counterApp.js"></script>
+  </body>
+</html>
