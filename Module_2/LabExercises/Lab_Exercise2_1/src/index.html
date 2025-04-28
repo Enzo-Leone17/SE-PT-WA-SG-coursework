@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML practice</title>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Practice using HTML elements" />
+    <meta name="keywords" content="HTML, HTML Elements, HTML Practice" />
+    <meta name="author" content="Enzo" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+      table,
+      th,
+      td {
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <!-- works like <a href="/index.html">Home</a> -->
+        <a href="./index.html">Home</a>
+        <a href="./form.html">Form</a>
+      </nav>
+    </header>
+    <h1>Practice using HTML elements</h1>
+    <article>
+      <h2>Usage of div,p,span,pre,ul,ol,li</h2>
+      <div>Part 1</div>
+      <div>Part 2</div>
+      <div>Part 3</div>
+      <span>Test1</span><span>Test2</span><span>Test3</span>
+      <p>p represents paragraph without preserving spacing</p>
+      <pre>
+        Text in         a pre element
+        is displayed in a fixed-width
+        font, and it preserves
+        both      spaces and
+        line breaks
+        </pre
+      >
+      <ul>
+        <li>Type 1</li>
+        <li>Type 2</li>
+        <li>Type 3</li>
+        <li>Type 4</li>
+      </ul>
+      <ol>
+        <li>Tea</li>
+        <li>Milk</li>
+        <li>
+          Coffee
+          <ul>
+            <li>Latte</li>
+            <li>Americano</li>
+          </ul>
+        </li>
+      </ol>
+    </article>
+    <article>
+      <h2>Usage of tables</h2>
+      <table>
+        <thead>
+          <tr>
+            <th colspan="2">First header</th>
+            <th>Second header</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>First cell - first row</td>
+            <td>Second cell - first row</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>First cell - second row</td>
+            <td rowspan="2">Second cell - second row</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>First cell - third row</td>
+            <td>Second cell - third row</td>
+          </tr>
+        </tbody>
+      </table>
+    </article>
+    <article>
+      <h2>Part 2 practice</h2>
+      <img
+        src="https://picsum.photos/400/400"
+        alt="Random Image"
+        width="700"
+        height="800"
+      />
+      <img
+        src="./assets/html_lab_image.jpg"
+        alt="html_lab_image"
+        width="700"
+        height="800"
+      />
+      <div>
+        <video autoplay width="250">
+          <source src="./assets/flower.webm" type="video/webm" />
+          Sorry, your browser doesn't support embedded videos.
+        </video>
+      </div>
+      <figure>
+        <figcaption>T-Rex Roar</figcaption>
+        <audio controls src="./assets/t-rex-roar.mp3">
+          Your browser does not support the <code>audio</code> element.
+        </audio>
+      </figure>
+    </article>
+    <main></main>
+
+    <footer>Copyright &copy; 2024</footer>
+  </body>
+</html>
