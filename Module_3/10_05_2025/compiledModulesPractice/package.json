@@ -1,0 +1,12 @@
+{
+  "name": "compiledmodulespractice",
+  "version": "1.0.0",
+  "description": "book app to display data from book API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
