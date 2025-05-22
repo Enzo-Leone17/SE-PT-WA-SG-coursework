@@ -1,14 +1,17 @@
 //initialize the dependencies and express server
-const express = require("express");
-const cors = require('cors');
-const path = require("path");
+import express from "express";
+import cors from "cors";
+import path from "path";
+import { fileURLToPath } from 'url';
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 //initialize app and port
 const app = express();
 const port = 8000;
 
 //define routes
-const itemRouter = require("./routes/itemRouter.js");
+import itemRouter from "./routes/itemRouter.js";
+import accountRouter from "./routes/accountRouter.js";
 
 //middleware: bridging
 app.use(cors());
@@ -17,8 +20,9 @@ app.use(express.static(path.resolve(__dirname + "/./assets")));
 
 //routes
 app.use("/api/items", itemRouter);
+app.use("/api/accounts", accountRouter);
 
-//open index html for main page
+//open index html for main page >> localhost:8000
 app.get("/", (req, res) => {
   res.sendFile(path.resolve(__dirname + "/./assets/pages/index.html"));
 });

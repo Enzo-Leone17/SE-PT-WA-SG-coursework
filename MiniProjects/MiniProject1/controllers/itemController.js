@@ -1,11 +1,11 @@
 //controller to facilitate the requests
 
 //initialize dependencies
-const allItems = require("../models/tradeableItems");
+import allItems from "../models/mainItems.js";
 
 //export functions
 
-exports.getAllItems = async (req, res) => {
+const getAllItems = async (req, res) => {
   try {
     const allTradeableItems = await allItems.getAllTradeableItems();
     if (!allTradeableItems) {
@@ -16,3 +16,17 @@ exports.getAllItems = async (req, res) => {
     console.error(e);
   }
 };
+
+const getItemByName = async (req, res) => {
+  try {
+    const item = await allItems.asyncItemAPIDetailedFetch(req.params.name, true);
+    if (!item) {
+      return res.status(404).json({ message: "Item not found" });
+    }
+    res.json(item);
+  } catch (e) {
+    console.error(e);
+  }
+};
+
+export default { getAllItems, };

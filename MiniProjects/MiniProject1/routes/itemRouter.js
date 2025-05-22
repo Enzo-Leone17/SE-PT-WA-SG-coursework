@@ -1,12 +1,11 @@
 //initialize express router
-const express = require('express');
+import express from "express";
 const itemRouter = express.Router();
-const itemController = require('../controllers/itemController');
+import itemController from "../controllers/itemController.js";
 
 //endpoints
 itemRouter.get('/', itemController.getAllItems);
-//itemRouter.get('/:name', itemController.getItemByName);
+itemRouter.get('/:name', itemController.getItemByName);
 
 
-//export
-module.exports = itemRouter;
+export default itemRouter;
