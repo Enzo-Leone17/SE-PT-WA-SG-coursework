@@ -1,0 +1,3512 @@
+[
+	{
+		"name": "Frost Prime Set",
+		"url_name": "frost_prime_set",
+		"id": "56783f24cbfa8f0432dd899c",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/frost_prime_set.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 105,
+		"ducat_value": 175,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Hydroid Prime Set",
+		"url_name": "hydroid_prime_set",
+		"id": "59a48b625cd9938cfede703c",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 98.5,
+		"ducat_value": 205,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Zephyr Prime Chassis Blueprint",
+		"url_name": "zephyr_prime_chassis_blueprint",
+		"id": "5ab1570db2b6a8044d5137c3",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 8,
+		"ducat_value": 25,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Loki Prime Systems Blueprint",
+		"url_name": "loki_prime_systems_blueprint",
+		"id": "54a73e65e779893a797fff74",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 29.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Rhino Prime Neuroptics Blueprint",
+		"url_name": "rhino_prime_neuroptics_blueprint",
+		"id": "54a73e65e779893a797fff6f",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 14.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Oberon Prime Neuroptics Blueprint",
+		"url_name": "oberon_prime_neuroptics_blueprint",
+		"id": "592dd262011e88f094afec7e",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 20,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Volt Prime Neuroptics Blueprint",
+		"url_name": "volt_prime_neuroptics_blueprint",
+		"id": "55158cd0e7798915e9d64c1e",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 30,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Volt Prime Chassis Blueprint",
+		"url_name": "volt_prime_chassis_blueprint",
+		"id": "55158cd9e7798915ee6bd13f",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Wukong Prime Neuroptics Blueprint",
+		"url_name": "wukong_prime_neuroptics_blueprint",
+		"id": "5d21ce4af4604c012d1e0c1a",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Ember Prime Neuroptics Blueprint",
+		"url_name": "ember_prime_neuroptics_blueprint",
+		"id": "54a73e65e779893a797fff6d",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 20,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Nyx Prime Blueprint",
+		"url_name": "nyx_prime_blueprint",
+		"id": "54a73e65e779893a797fff72",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 13,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Nyx Prime Systems Blueprint",
+		"url_name": "nyx_prime_systems_blueprint",
+		"id": "54a73e65e779893a797fff76",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 16,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Nyx Prime Neuroptics Blueprint",
+		"url_name": "nyx_prime_neuroptics_blueprint",
+		"id": "54a73e65e779893a797fff71",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 50,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Rhino Prime Blueprint",
+		"url_name": "rhino_prime_blueprint",
+		"id": "54a73e65e779893a797fff77",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 20.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Trinity Prime Neuroptics Blueprint",
+		"url_name": "trinity_prime_neuroptics_blueprint",
+		"id": "56153692b66f836f7d649936",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 20,
+		"ducat_value": 25,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Nyx Prime Chassis Blueprint",
+		"url_name": "nyx_prime_chassis_blueprint",
+		"id": "54a73e65e779893a797fff73",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Loki Prime Chassis Blueprint",
+		"url_name": "loki_prime_chassis_blueprint",
+		"id": "54a73e65e779893a797fff75",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 21.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Mag Prime Chassis Blueprint",
+		"url_name": "mag_prime_chassis_blueprint",
+		"id": "54a73e65e779893a797fff83",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 14,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Loki Prime Neuroptics Blueprint",
+		"url_name": "loki_prime_neuroptics_blueprint",
+		"id": "54a73e65e779893a797fff70",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 19,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Ash Prime Neuroptics Blueprint",
+		"url_name": "ash_prime_neuroptics_blueprint",
+		"id": "559daab7e779897b3d86cb8f",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 14,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Saryn Prime Set",
+		"url_name": "saryn_prime_set",
+		"id": "56c3bbea5d2f0202da32e93f",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/saryn_prime_set.394094bef0383f954bd38d622bb075e5.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 97,
+		"ducat_value": 225,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Equinox Prime Blueprint",
+		"url_name": "equinox_prime_blueprint",
+		"id": "5ca28670fc2db2035eae05a6",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Nova Prime Systems Blueprint",
+		"url_name": "nova_prime_systems_blueprint",
+		"id": "54a73e65e779893a797fff6a",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Frost Prime Blueprint",
+		"url_name": "frost_prime_blueprint",
+		"id": "54a73e65e779893a797fff80",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 50,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Vauban Prime Neuroptics Blueprint",
+		"url_name": "vauban_prime_neuroptics_blueprint",
+		"id": "573b7fc80ec44a47787a690f",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 38,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Nova Prime Neuroptics Blueprint",
+		"url_name": "nova_prime_neuroptics_blueprint",
+		"id": "54a73e65e779893a797fff68",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 18.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Nova Prime Chassis Blueprint",
+		"url_name": "nova_prime_chassis_blueprint",
+		"id": "54a73e65e779893a797fff69",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 60,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Nova Prime Blueprint",
+		"url_name": "nova_prime_blueprint",
+		"id": "54a73e65e779893a797fff6b",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 20,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Frost Prime Neuroptics Blueprint",
+		"url_name": "frost_prime_neuroptics_blueprint",
+		"id": "54a73e65e779893a797fff6c",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Trinity Prime Blueprint",
+		"url_name": "trinity_prime_blueprint",
+		"id": "56153689b66f836f7a3c0baf",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"warframe",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 20.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Banshee Prime Chassis Blueprint",
+		"url_name": "banshee_prime_chassis_blueprint",
+		"id": "58b57068eb26db5c3119210c",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 29,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Wukong Prime Chassis Blueprint",
+		"url_name": "wukong_prime_chassis_blueprint",
+		"id": "5d21ce45f4604c012d1e0c0f",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Hydroid Prime Neuroptics Blueprint",
+		"url_name": "hydroid_prime_neuroptics_blueprint",
+		"id": "59a48b625cd9938cfede7039",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 17.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Rhino Prime Set",
+		"url_name": "rhino_prime_set",
+		"id": "56783f24cbfa8f0432dd89ab",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/rhino_prime_set.22301207f9463fe9ab215e40eb23a326.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 80,
+		"ducat_value": 225,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Hydroid Prime Chassis Blueprint",
+		"url_name": "hydroid_prime_chassis_blueprint",
+		"id": "59a48b625cd9938cfede703a",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Wukong Prime Set",
+		"url_name": "wukong_prime_set",
+		"id": "5d21ce48f4604c012d1e0c18",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/wukong_prime_set.6fa7196ae48a7a3901c35834476f3891.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 92.5,
+		"ducat_value": 205,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Loki Prime Blueprint",
+		"url_name": "loki_prime_blueprint",
+		"id": "54a73e65e779893a797fff7c",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Ember Prime Set",
+		"url_name": "ember_prime_set",
+		"id": "56783f24cbfa8f0432dd899a",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 100,
+		"ducat_value": 175,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Mag Prime Set",
+		"url_name": "mag_prime_set",
+		"id": "56783f24cbfa8f0432dd89a4",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/mag_prime_set.2afb45373319b966737bd91cf05a813c.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 105,
+		"ducat_value": 175,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Nekros Prime Neuroptics Blueprint",
+		"url_name": "nekros_prime_neuroptics_blueprint",
+		"id": "57bc9a40e506eb45ea251453",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 22.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Oberon Prime Set",
+		"url_name": "oberon_prime_set",
+		"id": "592dd262011e88f094afec81",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/oberon_prime_set.d7f1623552bce11f166b715679e27022.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 90,
+		"ducat_value": 225,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Saryn Prime Blueprint",
+		"url_name": "saryn_prime_blueprint",
+		"id": "56c3bbd55d2f0202da32e93b",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Zephyr Prime Blueprint",
+		"url_name": "zephyr_prime_blueprint",
+		"id": "5ab1570db2b6a8044d5137c2",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 21,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Valkyr Prime Neuroptics Blueprint",
+		"url_name": "valkyr_prime_neuroptics_blueprint",
+		"id": "58358a062c2ada0047b386f7",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 14,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Mag Prime Neuroptics Blueprint",
+		"url_name": "mag_prime_neuroptics_blueprint",
+		"id": "54a73e65e779893a797fff6e",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 21,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Ash Prime Chassis Blueprint",
+		"url_name": "ash_prime_chassis_blueprint",
+		"id": "559daaa7e779897b35d626c6",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Ash Prime Systems Blueprint",
+		"url_name": "ash_prime_systems_blueprint",
+		"id": "559daaafe779897b399db0fd",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 34,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Mag Prime Systems Blueprint",
+		"url_name": "mag_prime_systems_blueprint",
+		"id": "54a73e65e779893a797fff7b",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 21,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Trinity Prime Set",
+		"url_name": "trinity_prime_set",
+		"id": "56783f24cbfa8f0432dd89af",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
+		"type": [
+			"set",
+			"warframe",
+			"prime"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 70,
+		"ducat_value": 130,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Wukong Prime Blueprint",
+		"url_name": "wukong_prime_blueprint",
+		"id": "5d21ce46f4604c012d1e0c12",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 45,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Wukong Prime Systems Blueprint",
+		"url_name": "wukong_prime_systems_blueprint",
+		"id": "5d21ce46f4604c012d1e0c13",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Banshee Prime Systems Blueprint",
+		"url_name": "banshee_prime_systems_blueprint",
+		"id": "58b57068eb26db5c3119210d",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 19.5,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Hydroid Prime Blueprint",
+		"url_name": "hydroid_prime_blueprint",
+		"id": "59a48b625cd9938cfede7038",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 20,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Equinox Prime Systems Blueprint",
+		"url_name": "equinox_prime_systems_blueprint",
+		"id": "5ca28670fc2db2035eae05a0",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 39,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Mesa Prime Blueprint",
+		"url_name": "mesa_prime_blueprint",
+		"id": "5c182b739603780081b09a55",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 8.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Equinox Prime Neuroptics Blueprint",
+		"url_name": "equinox_prime_neuroptics_blueprint",
+		"id": "5ca28670fc2db2035eae05a5",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 7.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T05:00:00.000+00:00"
+	},
+	{
+		"name": "Volt Prime Blueprint",
+		"url_name": "volt_prime_blueprint",
+		"id": "55244820e779890907ef6805",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 27.5,
+		"ducat_value": 25,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Ember Prime Chassis Blueprint",
+		"url_name": "ember_prime_chassis_blueprint",
+		"id": "54a73e65e779893a797fff7e",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 18,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Rhino Prime Chassis Blueprint",
+		"url_name": "rhino_prime_chassis_blueprint",
+		"id": "54a73e65e779893a797fff78",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 17.5,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Nekros Prime Chassis Blueprint",
+		"url_name": "nekros_prime_chassis_blueprint",
+		"id": "57bc9a40e506eb45ea251452",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Atlas Prime Chassis Blueprint",
+		"url_name": "atlas_prime_chassis_blueprint",
+		"id": "5d9385b17ea27b0a28fd75b8",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 8,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Limbo Prime Systems Blueprint",
+		"url_name": "limbo_prime_systems_blueprint",
+		"id": "5b2987abeb069f0536234279",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 4.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Ivara Prime Neuroptics Blueprint",
+		"url_name": "ivara_prime_neuroptics_blueprint",
+		"id": "5df8b0ab1456970087cd9b01",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 7,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Ivara Prime Chassis Blueprint",
+		"url_name": "ivara_prime_chassis_blueprint",
+		"id": "5df8b0ab1456970087cd9b02",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 44.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Ivara Prime Systems Blueprint",
+		"url_name": "ivara_prime_systems_blueprint",
+		"id": "5df8b0ac1456970087cd9b03",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Ember Prime Systems Blueprint",
+		"url_name": "ember_prime_systems_blueprint",
+		"id": "54a73e65e779893a797fff7a",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 11,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Frost Prime Chassis Blueprint",
+		"url_name": "frost_prime_chassis_blueprint",
+		"id": "54a73e65e779893a797fff7d",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 17,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Rhino Prime Systems Blueprint",
+		"url_name": "rhino_prime_systems_blueprint",
+		"id": "54a73e65e779893a797fff7f",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Ember Prime Blueprint",
+		"url_name": "ember_prime_blueprint",
+		"id": "54a73e65e779893a797fff81",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 44,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Ash Prime Blueprint",
+		"url_name": "ash_prime_blueprint",
+		"id": "559daa9fe779897b3263c2c7",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 20,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Vauban Prime Blueprint",
+		"url_name": "vauban_prime_blueprint",
+		"id": "573b7fbd0ec44a47787a690d",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 19.5,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Oberon Prime Chassis Blueprint",
+		"url_name": "oberon_prime_chassis_blueprint",
+		"id": "592dd262011e88f094afec7f",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Oberon Prime Systems Blueprint",
+		"url_name": "oberon_prime_systems_blueprint",
+		"id": "592dd262011e88f094afec80",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 12.5,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Volt Prime Set",
+		"url_name": "volt_prime_set",
+		"id": "56783f24cbfa8f0432dd89b2",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/volt_prime_set.9481daa3eb02aaec1108cdbeeaeea159.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 87,
+		"ducat_value": 180,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Banshee Prime Neuroptics Blueprint",
+		"url_name": "banshee_prime_neuroptics_blueprint",
+		"id": "58b57068eb26db5c3119210b",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Mag Prime Blueprint",
+		"url_name": "mag_prime_blueprint",
+		"id": "54a73e65e779893a797fff82",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 44,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Frost Prime Systems Blueprint",
+		"url_name": "frost_prime_systems_blueprint",
+		"id": "54a73e65e779893a797fff79",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Equinox Prime Chassis Blueprint",
+		"url_name": "equinox_prime_chassis_blueprint",
+		"id": "5ca28670fc2db2035eae05a1",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Titania Prime Neuroptics Blueprint",
+		"url_name": "titania_prime_neuroptics_blueprint",
+		"id": "5e839494267539077b0dd6b8",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 8.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Titania Prime Blueprint",
+		"url_name": "titania_prime_blueprint",
+		"id": "5e839495267539077b0dd6cc",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Titania Prime Set",
+		"url_name": "titania_prime_set",
+		"id": "5e839496267539077b0dd6d3",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 80,
+		"ducat_value": 205,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Banshee Prime Blueprint",
+		"url_name": "banshee_prime_blueprint",
+		"id": "58b57068eb26db5c3119210a",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Valkyr Prime Chassis Blueprint",
+		"url_name": "valkyr_prime_chassis_blueprint",
+		"id": "58358a092c2ada0047b386f8",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 59.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Volt Prime Systems Blueprint",
+		"url_name": "volt_prime_systems_blueprint",
+		"id": "55158ce0e7798915f4c95b78",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 17.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Hydroid Prime Systems Blueprint",
+		"url_name": "hydroid_prime_systems_blueprint",
+		"id": "59a48b625cd9938cfede703b",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 40,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Inaros Prime Set",
+		"url_name": "inaros_prime_set",
+		"id": "5f0deab69f527b024d48f055",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/inaros_prime_set.58fc170fbf04332e7d541a615c198b41.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 70,
+		"ducat_value": 205,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Inaros Prime Chassis Blueprint",
+		"url_name": "inaros_prime_chassis_blueprint",
+		"id": "5f0deab69f527b024d48f056",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Inaros Prime Neuroptics Blueprint",
+		"url_name": "inaros_prime_neuroptics_blueprint",
+		"id": "5f0deab69f527b024d48f057",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 47.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Inaros Prime Blueprint",
+		"url_name": "inaros_prime_blueprint",
+		"id": "5f0deab79f527b024d48f058",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Inaros Prime Systems Blueprint",
+		"url_name": "inaros_prime_systems_blueprint",
+		"id": "5f0deab79f527b024d48f059",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Oberon Prime Blueprint",
+		"url_name": "oberon_prime_blueprint",
+		"id": "592dd262011e88f094afec7d",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 18.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Valkyr Prime Blueprint",
+		"url_name": "valkyr_prime_blueprint",
+		"id": "583589fd2c2ada0047b386f6",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 14.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Valkyr Prime Set",
+		"url_name": "valkyr_prime_set",
+		"id": "58358a0e2c2ada0047b386fa",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/valkyr_prime_set.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 106,
+		"ducat_value": 225,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Saryn Prime Neuroptics Blueprint",
+		"url_name": "saryn_prime_neuroptics_blueprint",
+		"id": "56c3bbdb5d2f0202da32e93c",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 13.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Limbo Prime Set",
+		"url_name": "limbo_prime_set",
+		"id": "5b2987abeb069f0536234278",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 99.5,
+		"ducat_value": 260,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Vauban Prime Chassis Blueprint",
+		"url_name": "vauban_prime_chassis_blueprint",
+		"id": "573b7fc20ec44a47787a690e",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 22,
+		"ducat_value": 25,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Valkyr Prime Systems Blueprint",
+		"url_name": "valkyr_prime_systems_blueprint",
+		"id": "58358a0c2c2ada0047b386f9",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 30,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Mirage Prime Systems Blueprint",
+		"url_name": "mirage_prime_systems_blueprint",
+		"id": "5a2feeb1c2c9e90cbdaa23d2",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 16.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Mirage Prime Blueprint",
+		"url_name": "mirage_prime_blueprint",
+		"id": "5a2feeb2c2c9e90cbdaa23d4",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 40,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Atlas Prime Set",
+		"url_name": "atlas_prime_set",
+		"id": "5d9385b17ea27b0a28fd75b9",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/atlas_prime_set.91fb26397de19c27bfece550a8315a14.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 85,
+		"ducat_value": 205,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Nezha Prime Blueprint",
+		"url_name": "nezha_prime_blueprint",
+		"id": "5f986cf99dbdce024971b0b7",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 7,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Mirage Prime Chassis Blueprint",
+		"url_name": "mirage_prime_chassis_blueprint",
+		"id": "5a2feeb2c2c9e90cbdaa23d5",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Chroma Prime Set",
+		"url_name": "chroma_prime_set",
+		"id": "5ba9f2034567de01415f638b",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 85,
+		"ducat_value": 205,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Banshee Prime Set",
+		"url_name": "banshee_prime_set",
+		"id": "58b57068eb26db5c3119210e",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/banshee_prime_set.a0956816beb733841bce57e69a568cd6.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 70,
+		"ducat_value": 225,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Vauban Prime Set",
+		"url_name": "vauban_prime_set",
+		"id": "573b7fcc0ec44a47787a6910",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/vauban_prime_set.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 135,
+		"ducat_value": 290,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Vauban Prime Systems Blueprint",
+		"url_name": "vauban_prime_systems_blueprint",
+		"id": "573d0efa336297b2dfca2909",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 50,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Loki Prime Set",
+		"url_name": "loki_prime_set",
+		"id": "56783f24cbfa8f0432dd89a3",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/loki_prime_set.abc05c280f92196bcb688643873fbf95.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 95,
+		"ducat_value": 175,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Nova Prime Set",
+		"url_name": "nova_prime_set",
+		"id": "56783f24cbfa8f0432dd89a5",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/nova_prime_set.639a9222e1cb351cd6dd09ef28155ef0.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 124.5,
+		"ducat_value": 175,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Nyx Prime Set",
+		"url_name": "nyx_prime_set",
+		"id": "56783f24cbfa8f0432dd89a6",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/nyx_prime_set.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 110,
+		"ducat_value": 225,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Saryn Prime Chassis Blueprint",
+		"url_name": "saryn_prime_chassis_blueprint",
+		"id": "56c3bbe45d2f0202da32e93e",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 37.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Saryn Prime Systems Blueprint",
+		"url_name": "saryn_prime_systems_blueprint",
+		"id": "56c3bbe05d2f0202da32e93d",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 11,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Zephyr Prime Neuroptics Blueprint",
+		"url_name": "zephyr_prime_neuroptics_blueprint",
+		"id": "5ab1570db2b6a8044d5137c1",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 6.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Zephyr Prime Set",
+		"url_name": "zephyr_prime_set",
+		"id": "5ab1570db2b6a8044d5137c5",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/zephyr_prime_set.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 102.5,
+		"ducat_value": 205,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Ivara Prime Set",
+		"url_name": "ivara_prime_set",
+		"id": "5df8b0ab1456970087cd9b00",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/ivara_prime_set.5c4fbd8ffa071c741cf93e260e43b6db.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 69.5,
+		"ducat_value": 205,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Mirage Prime Neuroptics Blueprint",
+		"url_name": "mirage_prime_neuroptics_blueprint",
+		"id": "5a2feeb2c2c9e90cbdaa23d6",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Mirage Prime Set",
+		"url_name": "mirage_prime_set",
+		"id": "5a2feeb2c2c9e90cbdaa23d3",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/mirage_prime_set.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 90,
+		"ducat_value": 175,
+		"date_updated": "2025-05-24T00:00:00.000+00:00"
+	},
+	{
+		"name": "Nekros Prime Blueprint",
+		"url_name": "nekros_prime_blueprint",
+		"id": "57bcb14ce506eb45ea25145e",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"warframe",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 21.5,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Trinity Prime Systems Blueprint",
+		"url_name": "trinity_prime_systems_blueprint",
+		"id": "561536a1b66f836f854b966a",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 11.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Titania Prime Chassis Blueprint",
+		"url_name": "titania_prime_chassis_blueprint",
+		"id": "5e839493267539077b0dd698",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 18.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Titania Prime Systems Blueprint",
+		"url_name": "titania_prime_systems_blueprint",
+		"id": "5e839494267539077b0dd6b0",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 43,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Atlas Prime Systems Blueprint",
+		"url_name": "atlas_prime_systems_blueprint",
+		"id": "5d9385b17ea27b0a28fd75ba",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 8.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Atlas Prime Neuroptics Blueprint",
+		"url_name": "atlas_prime_neuroptics_blueprint",
+		"id": "5d9385b27ea27b0a28fd75bb",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 60,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Atlas Prime Blueprint",
+		"url_name": "atlas_prime_blueprint",
+		"id": "5d9385b27ea27b0a28fd75bc",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Limbo Prime Blueprint",
+		"url_name": "limbo_prime_blueprint",
+		"id": "5b2987aaeb069f0536234276",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T06:00:00.000+00:00"
+	},
+	{
+		"name": "Limbo Prime Chassis Blueprint",
+		"url_name": "limbo_prime_chassis_blueprint",
+		"id": "5b2987abeb069f053623427a",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 50,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Mesa Prime Neuroptics Blueprint",
+		"url_name": "mesa_prime_neuroptics_blueprint",
+		"id": "5c182b739603780081b09a54",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 37.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Equinox Prime Set",
+		"url_name": "equinox_prime_set",
+		"id": "5ca28670fc2db2035eae059e",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/equinox_prime_set.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 79.5,
+		"ducat_value": 205,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Zephyr Prime Systems Blueprint",
+		"url_name": "zephyr_prime_systems_blueprint",
+		"id": "5ab1570db2b6a8044d5137c4",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 50,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Ash Prime Set",
+		"url_name": "ash_prime_set",
+		"id": "56783f24cbfa8f0432dd898f",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/ash_prime_set.9f3f82bee82a9741531857cf76eb6594.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 102,
+		"ducat_value": 170,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Limbo Prime Neuroptics Blueprint",
+		"url_name": "limbo_prime_neuroptics_blueprint",
+		"id": "5b2987abeb069f0536234277",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 22.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Chroma Prime Blueprint",
+		"url_name": "chroma_prime_blueprint",
+		"id": "5ba9f2054567de01415f6390",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Mesa Prime Set",
+		"url_name": "mesa_prime_set",
+		"id": "5c182b739603780081b09a53",
+		"thumbnailURL": "https://warframe.market/static/assets/https://warframe.market/static/assets/items/images/en/thumbs/mesa_prime_set.34d67af54de052f6de1d5ae64ed40197.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 79.5,
+		"ducat_value": 260,
+		"date_updated": "2025-05-23T16:00:00.000+00:00"
+	},
+	{
+		"name": "Mesa Prime Systems Blueprint",
+		"url_name": "mesa_prime_systems_blueprint",
+		"id": "5c182b749603780081b09a56",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 37.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Mesa Prime Chassis Blueprint",
+		"url_name": "mesa_prime_chassis_blueprint",
+		"id": "5c182b749603780081b09a57",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 7.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Trinity Prime Chassis Blueprint",
+		"url_name": "trinity_prime_chassis_blueprint",
+		"id": "5615369ab66f836f805c5a8b",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Ivara Prime Blueprint",
+		"url_name": "ivara_prime_blueprint",
+		"id": "5df8b0aa1456970087cd9aff",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 8.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nekros Prime Set",
+		"url_name": "nekros_prime_set",
+		"id": "57bc9a40e506eb45ea251451",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.128x128.png",
+		"type": [
+			"set",
+			"warframe",
+			"prime"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 112,
+		"ducat_value": 225,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nekros Prime Systems Blueprint",
+		"url_name": "nekros_prime_systems_blueprint",
+		"id": "57bc9a40e506eb45ea251454",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 34,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Chroma Prime Systems Blueprint",
+		"url_name": "chroma_prime_systems_blueprint",
+		"id": "5ba9f2014567de01415f6387",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 26.5,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Chroma Prime Chassis Blueprint",
+		"url_name": "chroma_prime_chassis_blueprint",
+		"id": "5ba9f2024567de01415f6388",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9,
+		"ducat_value": 25,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Chroma Prime Neuroptics Blueprint",
+		"url_name": "chroma_prime_neuroptics_blueprint",
+		"id": "5ba9f2024567de01415f6389",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 30,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nezha Prime Systems Blueprint",
+		"url_name": "nezha_prime_systems_blueprint",
+		"id": "5f986cfa9dbdce024971b0be",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nezha Prime Chassis Blueprint",
+		"url_name": "nezha_prime_chassis_blueprint",
+		"id": "5f986cfa9dbdce024971b0bf",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 33.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nezha Prime Neuroptics Blueprint",
+		"url_name": "nezha_prime_neuroptics_blueprint",
+		"id": "5f986cfb9dbdce024971b0c1",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 30,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nezha Prime Set",
+		"url_name": "nezha_prime_set",
+		"id": "5f986cfc9dbdce024971b0c2",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/nezha_prime_set.462f17d4752cca5cea3988ecb9786467.128x128.png",
+		"type": [
+			"set",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 85,
+		"ducat_value": 260,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Octavia Prime Blueprint",
+		"url_name": "octavia_prime_blueprint",
+		"id": "6036214f0a372600fd5614cf",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"warframe",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 57.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Octavia Prime Chassis Blueprint",
+		"url_name": "octavia_prime_chassis_blueprint",
+		"id": "603621500a372600fd5614d7",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"blueprint",
+			"warframe",
+			"prime",
+			"component"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Octavia Prime Neuroptics Blueprint",
+		"url_name": "octavia_prime_neuroptics_blueprint",
+		"id": "603621500a372600fd5614d8",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"blueprint",
+			"warframe",
+			"prime",
+			"component"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 7,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Octavia Prime Systems Blueprint",
+		"url_name": "octavia_prime_systems_blueprint",
+		"id": "603621500a372600fd5614da",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"blueprint",
+			"warframe",
+			"prime",
+			"component"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Octavia Prime Set",
+		"url_name": "octavia_prime_set",
+		"id": "603621500a372600fd5614dc",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 99,
+		"ducat_value": 175,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Gara Prime Blueprint",
+		"url_name": "gara_prime_blueprint",
+		"id": "60ad4a1bf1904300d012c6ff",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 49,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Gara Prime Set",
+		"url_name": "gara_prime_set",
+		"id": "60ad4a1bf1904300d012c701",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 86,
+		"ducat_value": 205,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Gara Prime Neuroptics Blueprint",
+		"url_name": "gara_prime_neuroptics_blueprint",
+		"id": "60ad4a1cf1904300d012c702",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 11,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Gara Prime Systems Blueprint",
+		"url_name": "gara_prime_systems_blueprint",
+		"id": "60ad4a1cf1904300d012c703",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 7.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Gara Prime Chassis Blueprint",
+		"url_name": "gara_prime_chassis_blueprint",
+		"id": "60ad4a1df1904300d012c70e",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 17.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nidus Prime Blueprint",
+		"url_name": "nidus_prime_blueprint",
+		"id": "6139101830dd5b004b7f9093",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"warframe",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 7,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nidus Prime Set",
+		"url_name": "nidus_prime_set",
+		"id": "6139101930dd5b004b7f909e",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/nidus_prime_set.1cf479b37c98ce42340156c9c005e91e.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 77.5,
+		"ducat_value": 225,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nidus Prime Systems Blueprint",
+		"url_name": "nidus_prime_systems_blueprint",
+		"id": "6139101a30dd5b004b7f90a8",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"blueprint",
+			"component",
+			"warframe",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nidus Prime Neuroptics Blueprint",
+		"url_name": "nidus_prime_neuroptics_blueprint",
+		"id": "6139101a30dd5b004b7f90ac",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"blueprint",
+			"component",
+			"warframe",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 36.5,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Nidus Prime Chassis Blueprint",
+		"url_name": "nidus_prime_chassis_blueprint",
+		"id": "6139101a30dd5b004b7f90ad",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"blueprint",
+			"component",
+			"warframe",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 25.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Harrow Prime Blueprint",
+		"url_name": "harrow_prime_blueprint",
+		"id": "61bb64fc3132ff00482b5fba",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Harrow Prime Set",
+		"url_name": "harrow_prime_set",
+		"id": "61bb64fc3132ff00482b5fbb",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/harrow_prime_set.532d5a9a035beaca81c15bbaa4001a1d.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 66.5,
+		"ducat_value": 205,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Harrow Prime Neuroptics Blueprint",
+		"url_name": "harrow_prime_neuroptics_blueprint",
+		"id": "61bb64fd3132ff00482b5fc4",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Harrow Prime Chassis Blueprint",
+		"url_name": "harrow_prime_chassis_blueprint",
+		"id": "61bb64fe3132ff00482b5fce",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 11,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Harrow Prime Systems Blueprint",
+		"url_name": "harrow_prime_systems_blueprint",
+		"id": "61bb64fe3132ff00482b5fd2",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"blueprint",
+			"prime"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 42,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Garuda Prime Chassis Blueprint",
+		"url_name": "garuda_prime_chassis_blueprint",
+		"id": "6242037666a58f0108c3d479",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"blueprint",
+			"component",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Garuda Prime Systems Blueprint",
+		"url_name": "garuda_prime_systems_blueprint",
+		"id": "6242037666a58f0108c3d486",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"blueprint",
+			"component",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 39.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Garuda Prime Set",
+		"url_name": "garuda_prime_set",
+		"id": "6242037766a58f0108c3d490",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/garuda_prime_set.283072e865cfc5da28d322b15a2065fa.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 84,
+		"ducat_value": 260,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Garuda Prime Neuroptics Blueprint",
+		"url_name": "garuda_prime_neuroptics_blueprint",
+		"id": "6242037766a58f0108c3d492",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"blueprint",
+			"component",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 25,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Garuda Prime Blueprint",
+		"url_name": "garuda_prime_blueprint",
+		"id": "6242037866a58f0108c3d497",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"blueprint",
+			"prime",
+			"warframe"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Khora Prime Chassis Blueprint",
+		"url_name": "khora_prime_chassis_blueprint",
+		"id": "62d3493f75156700ce450ded",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Khora Prime Set",
+		"url_name": "khora_prime_set",
+		"id": "62d3494075156700ce450df4",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 80,
+		"ducat_value": 225,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Khora Prime Blueprint",
+		"url_name": "khora_prime_blueprint",
+		"id": "62d3494075156700ce450df5",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 29.5,
+		"ducat_value": 65,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Khora Prime Neuroptics Blueprint",
+		"url_name": "khora_prime_neuroptics_blueprint",
+		"id": "62d3494175156700ce450dff",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 34,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Khora Prime Systems Blueprint",
+		"url_name": "khora_prime_systems_blueprint",
+		"id": "62d3494175156700ce450e04",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 7.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T07:00:00.000+00:00"
+	},
+	{
+		"name": "Revenant Prime Chassis Blueprint",
+		"url_name": "revenant_prime_chassis_blueprint",
+		"id": "633e2e6af570d10793afb815",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 8.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Revenant Prime Systems Blueprint",
+		"url_name": "revenant_prime_systems_blueprint",
+		"id": "633e2e6af570d10793afb816",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 13.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Revenant Prime Set",
+		"url_name": "revenant_prime_set",
+		"id": "633e2e6af570d10793afb81a",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 59,
+		"ducat_value": 205,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Revenant Prime Neuroptics Blueprint",
+		"url_name": "revenant_prime_neuroptics_blueprint",
+		"id": "633e2e6bf570d10793afb81d",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 8,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Revenant Prime Blueprint",
+		"url_name": "revenant_prime_blueprint",
+		"id": "633e2e6cf570d10793afb827",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 27,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Baruuk Prime Chassis Blueprint",
+		"url_name": "baruuk_prime_chassis_blueprint",
+		"id": "639a8d9374b02f003889eb71",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Baruuk Prime Blueprint",
+		"url_name": "baruuk_prime_blueprint",
+		"id": "639a8d9374b02f003889eb77",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 16.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Baruuk Prime Systems Blueprint",
+		"url_name": "baruuk_prime_systems_blueprint",
+		"id": "639a8d9374b02f003889eb7e",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Baruuk Prime Neuroptics Blueprint",
+		"url_name": "baruuk_prime_neuroptics_blueprint",
+		"id": "639a8d9474b02f003889eb81",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 32,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Baruuk Prime Set",
+		"url_name": "baruuk_prime_set",
+		"id": "639a8d9474b02f003889eb84",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/baruuk_prime_set.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 67,
+		"ducat_value": 260,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Hildryn Prime Blueprint",
+		"url_name": "hildryn_prime_blueprint",
+		"id": "641263df7d179f02100c6d40",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 32,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Hildryn Prime Systems Blueprint",
+		"url_name": "hildryn_prime_systems_blueprint",
+		"id": "641263e07d179f02100c6d41",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 4,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Hildryn Prime Set",
+		"url_name": "hildryn_prime_set",
+		"id": "641263e07d179f02100c6d43",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/hildryn_prime_set.7e3f1cd4b94baa590dde37cd0ad0ba9e.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 52,
+		"ducat_value": 205,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Hildryn Prime Neuroptics Blueprint",
+		"url_name": "hildryn_prime_neuroptics_blueprint",
+		"id": "641263e07d179f02100c6d46",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 4,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Hildryn Prime Chassis Blueprint",
+		"url_name": "hildryn_prime_chassis_blueprint",
+		"id": "641263e07d179f02100c6d4b",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 7,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Wisp Prime Chassis Blueprint",
+		"url_name": "wisp_prime_chassis_blueprint",
+		"id": "64c2aa1466456704eba6ba2d",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 14,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Wisp Prime Set",
+		"url_name": "wisp_prime_set",
+		"id": "64c2aa1466456704eba6ba35",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/wisp_prime_set.609bc4e8676a77247cc126ca150cb132.128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 67.5,
+		"ducat_value": 260,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Wisp Prime Neuroptics Blueprint",
+		"url_name": "wisp_prime_neuroptics_blueprint",
+		"id": "64c2aa1566456704eba6ba38",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 6,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Wisp Prime Systems Blueprint",
+		"url_name": "wisp_prime_systems_blueprint",
+		"id": "64c2aa1666456704eba6ba44",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Wisp Prime Blueprint",
+		"url_name": "wisp_prime_blueprint",
+		"id": "64c2aa1666456704eba6ba4a",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 28,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Grendel Prime Set",
+		"url_name": "grendel_prime_set",
+		"id": "653060f332327ba8746da744",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/grendel_prime_set.c684407cdaea9bef16f0c7aa97c74369.128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 44,
+		"ducat_value": 260,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Grendel Prime Blueprint",
+		"url_name": "grendel_prime_blueprint",
+		"id": "653060f332327ba8746da745",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 10,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Grendel Prime Neuroptics Blueprint",
+		"url_name": "grendel_prime_neuroptics_blueprint",
+		"id": "653060f332327ba8746da746",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Grendel Prime Chassis Blueprint",
+		"url_name": "grendel_prime_chassis_blueprint",
+		"id": "653060f332327ba8746da747",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 6,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Grendel Prime Systems Blueprint",
+		"url_name": "grendel_prime_systems_blueprint",
+		"id": "653060f332327ba8746da748",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"prime",
+			"component",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 18,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Gauss Prime Set",
+		"url_name": "gauss_prime_set",
+		"id": "65a7fc5aed5b0d2e3eb462b2",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/gauss_prime_set.df5aa569d863730a4de767fd449c107e.128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 38,
+		"ducat_value": 185,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Gauss Prime Blueprint",
+		"url_name": "gauss_prime_blueprint",
+		"id": "65a7fc5aed5b0d2e3eb462b3",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 6,
+		"ducat_value": 25,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Gauss Prime Neuroptics Blueprint",
+		"url_name": "gauss_prime_neuroptics_blueprint",
+		"id": "65a7fc5aed5b0d2e3eb462b4",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"component",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Gauss Prime Chassis Blueprint",
+		"url_name": "gauss_prime_chassis_blueprint",
+		"id": "65a7fc5aed5b0d2e3eb462b5",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"component",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 6,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Gauss Prime Systems Blueprint",
+		"url_name": "gauss_prime_systems_blueprint",
+		"id": "65a7fc5aed5b0d2e3eb462b6",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"component",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 20.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Protea Prime Set",
+		"url_name": "protea_prime_set",
+		"id": "66325ca7e85cac3856c86cbc",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/protea_prime_set.c4d0269d10f68228b05510982f06e58b.128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 47,
+		"ducat_value": 260,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Protea Prime Blueprint",
+		"url_name": "protea_prime_blueprint",
+		"id": "66325caae85cac3856c86cbe",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 4.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Protea Prime Neuroptics Blueprint",
+		"url_name": "protea_prime_neuroptics_blueprint",
+		"id": "66325cb1e85cac3856c86cc0",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Protea Prime Chassis Blueprint",
+		"url_name": "protea_prime_chassis_blueprint",
+		"id": "66325cb5e85cac3856c86cc2",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 26.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Protea Prime Systems Blueprint",
+		"url_name": "protea_prime_systems_blueprint",
+		"id": "66325cb9e85cac3856c86cc4",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Sevagoth Prime Set",
+		"url_name": "sevagoth_prime_set",
+		"id": "66c6080266bbb2aedca6957b",
+		"thumbnailURL": "items/unknown.thumb.png",
+		"type": [
+			"prime",
+			"warframe",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 32,
+		"ducat_value": 175,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Sevagoth Prime Blueprint",
+		"url_name": "sevagoth_prime_blueprint",
+		"id": "66c6080266bbb2aedca6957c",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 6.5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Sevagoth Prime Neuroptics Blueprint",
+		"url_name": "sevagoth_prime_neuroptics_blueprint",
+		"id": "66c6080366bbb2aedca6957d",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 6,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Sevagoth Prime Chassis Blueprint",
+		"url_name": "sevagoth_prime_chassis_blueprint",
+		"id": "66c6080366bbb2aedca6957e",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 16.5,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Sevagoth Prime Systems Blueprint",
+		"url_name": "sevagoth_prime_systems_blueprint",
+		"id": "66c6080366bbb2aedca6957f",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"prime",
+			"warframe",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 4,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Xaku Prime Set",
+		"url_name": "xaku_prime_set",
+		"id": "673516a9db3ac2cfade14a70",
+		"thumbnailURL": "items/unknown.thumb.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 55,
+		"ducat_value": 205,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Xaku Prime Blueprint",
+		"url_name": "xaku_prime_blueprint",
+		"id": "673516aadb3ac2cfade14a71",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 17,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Xaku Prime Neuroptics Blueprint",
+		"url_name": "xaku_prime_neuroptics_blueprint",
+		"id": "673516abdb3ac2cfade14a72",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5.5,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Xaku Prime Chassis Blueprint",
+		"url_name": "xaku_prime_chassis_blueprint",
+		"id": "673516acdb3ac2cfade14a73",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 6,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Xaku Prime Systems Blueprint",
+		"url_name": "xaku_prime_systems_blueprint",
+		"id": "673516addb3ac2cfade14a74",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"warframe",
+			"component",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 18,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Lavos Prime Set",
+		"url_name": "lavos_prime_set",
+		"id": "67acd93f125398d92c8bb4ea",
+		"thumbnailURL": "items/unknown.thumb.png",
+		"type": [
+			"warframe",
+			"prime",
+			"set"
+		],
+		"is_set_master": true,
+		"average_platinum_price": 55,
+		"ducat_value": 205,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Lavos Prime Blueprint",
+		"url_name": "lavos_prime_blueprint",
+		"id": "67acd941125398d92c8bb4eb",
+		"thumbnailURL": "sub_icons/blueprint_128x128.png",
+		"type": [
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 15,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Lavos Prime Neuroptics Blueprint",
+		"url_name": "lavos_prime_neuroptics_blueprint",
+		"id": "67acd943125398d92c8bb4ec",
+		"thumbnailURL": "sub_icons/warframe/prime_helmet_128x128.png",
+		"type": [
+			"component",
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 5,
+		"ducat_value": 45,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Lavos Prime Chassis Blueprint",
+		"url_name": "lavos_prime_chassis_blueprint",
+		"id": "67acd944125398d92c8bb4ed",
+		"thumbnailURL": "sub_icons/warframe/prime_chassis_128x128.png",
+		"type": [
+			"component",
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 9,
+		"ducat_value": 15,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	},
+	{
+		"name": "Lavos Prime Systems Blueprint",
+		"url_name": "lavos_prime_systems_blueprint",
+		"id": "67acd945125398d92c8bb4ee",
+		"thumbnailURL": "sub_icons/warframe/prime_systems_128x128.png",
+		"type": [
+			"component",
+			"warframe",
+			"prime",
+			"blueprint"
+		],
+		"is_set_master": false,
+		"average_platinum_price": 16,
+		"ducat_value": 100,
+		"date_updated": "2025-05-21T08:00:00.000+00:00"
+	}
+]

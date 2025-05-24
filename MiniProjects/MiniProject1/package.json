@@ -1,0 +1,17 @@
+{
+  "name": "warframe_inventory_helper",
+  "version": "1.0.0",
+  "description": "Assist in managing warframe account inventory in terms of trading and farming items",
+  "license": "ISC",
+  "author": "EnzoLeone",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
