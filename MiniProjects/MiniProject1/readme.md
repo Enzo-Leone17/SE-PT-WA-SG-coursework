@@ -47,11 +47,7 @@ On any browser, go to the following url:
 
 - Filter and sort tradeable items by category, price etc
 - Fetch latest data straight from Warframe Market API
-- Account system, login as guest or Registered account
-
-#### - - - Registered User Features - - -
-- Pin/favourite items to the top of the list 
-- Track inventory items 
+ 
 
 
 ## API Reference
