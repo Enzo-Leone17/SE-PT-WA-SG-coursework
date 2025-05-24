@@ -39,6 +39,7 @@ export default class Mods extends TradeableItems {
           data.forEach((mods) => {
             if (mods.name === this.name) {
               //only price data may vary, other data is static
+              mods.thumbnailURL = this.thumbnailURL;
               mods.average_platinum_price = this.average_platinum_price;
               mods.date_updated = this.date_updated;
               hasUpdated = true;
@@ -62,3 +63,46 @@ export default class Mods extends TradeableItems {
       });
   };
 }
+
+
+export const getSpecificMod = async (name) => {
+  let result = [];
+  const data = await fsa.readFile(
+    "./json_data/mods.json",
+    "utf8",
+    (err, data) => {
+      if (err) {
+        console.log("Error reading file", err);
+        return null;
+      }
+      return data;
+    }
+  );
+  if (data !== null && data !== undefined) {
+    const mods = JSON.parse(data);
+    for await (const mod of mods) {
+      if (mod.name.toLowerCase().includes(name.toLowerCase())) {
+        result.push(mod);
+      }
+    }
+  }
+  return result;
+};
+
+
+export const getAllMods = async () => {
+  let result = [];
+  const data = await fs.readFile(
+    "./json_data/mods.json",
+    "utf8",
+    (err, data) => {
+      if (err) {
+        console.log("Error reading file", err);
+        return null;
+      }
+      return data;
+    }
+  );
+  result = JSON.parse(data);
+  return result;
+};

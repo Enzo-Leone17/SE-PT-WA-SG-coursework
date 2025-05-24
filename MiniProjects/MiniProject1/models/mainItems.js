@@ -6,12 +6,20 @@ import fsa from "node:fs/promises";
 //axios for http requests
 import axios from "axios";
 
-//import classes and subclasses
+//import classes and subclasses and their functions
 import TradeableItems from "./tradeableItems.js";
+
 import Warframes from "./warframes.js";
+import { getSpecificWarframe, getAllWarframes } from "./warframes.js";
+
 import Mods from "./mods.js";
+import { getSpecificMod, getAllMods } from "./mods.js";
+
 import Relics from "./relics.js";
+import { getSpecificRelic, getAllRelics } from "./relics.js";
+
 import Weapons from "./weapons.js";
+import { getSpecificWeapon, getAllWeapons } from "./weapons.js";
 
 //create instance
 const wfMarket = axios.create({
@@ -102,12 +110,14 @@ const fillOrUpdateSubclassJson = async (item_arr, tempindex) => {
   }
 };
 
+
+//fetch data from api (both basic details and statistics) then sort and return
 const asyncItemAPIDetailedFetch = async (item, getSetItems = false) => {
-  resultData = [];
+  let resultData = [];
   //first fetch detailed data from api endpoint (item url name parsed)
   await wfMarket
     .get("/items/" + item.url_name)
-    .then((response, err) => {
+    .then((response) => {
       response.data.payload.item.items_in_set.forEach((component) => {
         if (component.id === item.id || getSetItems) {
           //Additional check if the item is part of set, get itself from id
@@ -115,7 +125,7 @@ const asyncItemAPIDetailedFetch = async (item, getSetItems = false) => {
           //currently gets the latest live(i.e order not closed) avg price >> can be from buy or sell orders
           wfMarket
             .get("/items/" + item.url_name + "/statistics")
-            .then((stats, err) => {
+            .then((stats) => {
               let arrLength =
                 stats.data.payload.statistics_live["48hours"].length;
               return stats.data.payload.statistics_live["48hours"][
@@ -126,52 +136,54 @@ const asyncItemAPIDetailedFetch = async (item, getSetItems = false) => {
               resultData.push(sortItemData(component, avgPlatObj));
             })
             .catch((err) => {
-              console.log("error fetching api data " + err.status);
+              console.log("error fetching statistics data " + err.status);
             });
         }
       });
-      return resultData;
     })
     .catch((err) => {
-      console.log("error fetching api data " + err.status);
+      console.log("error fetching detailed item data " + err.status);
     });
+  return resultData;
 };
 
+
+//sort item by their tags >> catergory
 const sortItemData = (component, avgPlatObj) => {
   if (component.tags.includes("mod")) {
     let mod = new Mods(
-      component.name,
+      component.en.item_name,
       component.url_name,
       component.id,
       component.tags,
       avgPlatObj.avg_price,
-      component.thumbnailURL,
+      warframeMarketAssetURLPrepend + component.thumb,
       avgPlatObj.datetime
     );
     mod.updateJson();
     return mod;
   } else if (component.tags.includes("relic")) {
     let relic = new Relics(
-      component.name,
+      component.en.item_name,
       component.url_name,
       component.id,
       component.tags,
       avgPlatObj.avg_price,
-      component.thumbnailURL,
+      warframeMarketAssetURLPrepend + component.thumb,
       avgPlatObj.datetime
     );
     relic.updateJson();
     return relic;
   } else if (component.tags.includes("weapon")) {
     let weapon = new Weapons(
-      component.name,
+      component.en.item_name,
       component.url_name,
       component.id,
       //if it belongs to a set, use existing data, else set as master
-      component?.set_root !== null ? component.set_root : true,  
+      component?.set_root !== null ? component.set_root : true,
       component.tags,
       avgPlatObj.avg_price,
-      component.thumbnailURL,
+      warframeMarketAssetURLPrepend + component.thumb,
       avgPlatObj.datetime,
       component?.ducats
     );
@@ -179,14 +191,14 @@ const sortItemData = (component, avgPlatObj) => {
     return weapon;
   } else if (component.tags.includes("warframe")) {
     let warframe = new Warframes(
-      component.name,
+      component.en.item_name,
       component.url_name,
       component.id,
       //if it belongs to a set, use existing data, else set as master
       component?.set_root !== null ? component.set_root : true,
       component.tags,
       avgPlatObj.avg_price,
-      component.thumbnailURL,
+      warframeMarketAssetURLPrepend + component.thumb,
       avgPlatObj.datetime,
       component.ducats
     );
@@ -195,4 +207,89 @@ const sortItemData = (component, avgPlatObj) => {
   }
 };
 
-export default { getAllTradeableItems, asyncItemAPIDetailedFetch };
+
+const getWarframes = async () => {
+  try {
+    const result = await getAllWarframes();
+    return result
+  } catch (e) {
+    console.error(e);
+  }
+};
+const getWeapons = async () => {
+  try {
+    const result = await getAllWeapons();
+    return result
+  } catch (e) {
+    console.error(e);
+  }
+};
+const getRelics = async () => {
+  try {
+    const result = await getAllRelics();
+    return result
+  } catch (e) {
+    console.error(e);
+  }
+};const getMods = async () => {
+  try {
+    const result = await getAllMods();
+    return result
+  } catch (e) {
+    console.error(e);
+  }
+};
+
+//search by name functions
+
+const getWarframeByName = async (name) => {
+  try {
+    const result = await getSpecificWarframe(name);
+    const updatedResult = await asyncItemAPIDetailedFetch(result[0]);
+    return updatedResult;
+  } catch (err) {
+    console.log("error fetching update ", err);
+  }
+};
+
+const getWeaponByName = async (name) => {
+  try {
+    const result = await getSpecificWeapon(name);
+    const updatedResult = await asyncItemAPIDetailedFetch(result[0]);
+    return updatedResult;
+  } catch (err) {
+    console.log("error fetching update ", err);
+  }
+};
+
+const getRelicByName = async (name) => {
+  try {
+    const result = await getSpecificRelic(name);
+    const updatedResult = await asyncItemAPIDetailedFetch(result[0]);
+    return updatedResult;
+  } catch (err) {
+    console.log("error fetching update ", err);
+  }
+};
+
+const getModByName = async (name) => {
+  try {
+    const result = await getSpecificMod(name);
+    const updatedResult = await asyncItemAPIDetailedFetch(result[0]);
+    return updatedResult;
+  } catch (err) {
+    console.log("error fetching update ", err);
+  }
+};
+
+export default {
+  getAllTradeableItems,
+  getWarframeByName,
+  getWeaponByName,
+  getRelicByName,
+  getModByName,
+  getWarframes,
+  getWeapons,
+  getRelics,
+  getMods
+};

@@ -2,14 +2,16 @@
 //import classes
 import {Guest , RegisteredUser} from "../models/account.js";
 
-export const guestLogin = () =>{
+const guestLogin = () =>{
 
 };
 
-export const register = async (req, res) =>{
+const register = async (req, res) =>{
 
 };
 
-export const accountLogin = async (req, res) =>{
+const accountLogin = async (req, res) =>{
     
 };
+
+export default {guestLogin, register, accountLogin};

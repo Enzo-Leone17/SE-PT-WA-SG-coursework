@@ -27,6 +27,11 @@ app.get("/", (req, res) => {
   res.sendFile(path.resolve(__dirname + "/./assets/pages/index.html"));
 });
 
+//open index html for main page >> localhost:8000
+app.get("/table_data/", (req, res) => {
+  res.sendFile(path.resolve(__dirname + "/./assets/pages/trade_data.html"));
+});
+
 
 //open on port
 app.listen(port, () => {

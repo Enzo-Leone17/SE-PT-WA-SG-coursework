@@ -3,7 +3,7 @@
 		"name": "Secura Dual Cestra",
 		"url_name": "secura_dual_cestra",
 		"id": "54aae292e7798909064f1575",
-		"thumbnailURL": "items/images/en/thumbs/secura_dual_cestra.3d47a4ec6675ff774bb0da9b16c53e0e.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/secura_dual_cestra.3d47a4ec6675ff774bb0da9b16c53e0e.128x128.png",
 		"type": "tradeable",
 		"average_platinum_price": 39,
 		"date_updated": "2025-05-21T05:00:00.000+00:00"
@@ -12,7 +12,7 @@
 		"name": "Telos Boltor",
 		"url_name": "telos_boltor",
 		"id": "55e797d2e7798924849dd9f0",
-		"thumbnailURL": "items/images/en/thumbs/telos_boltor.9a109e6b666017c81b2402e7031243b5.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/telos_boltor.9a109e6b666017c81b2402e7031243b5.128x128.png",
 		"type": [
 			"syndicate",
 			"primary",
@@ -122,7 +122,7 @@
 		"name": "Viper Wraith",
 		"url_name": "viper_wraith",
 		"id": "5a5a121bdd7913052b3a0967",
-		"thumbnailURL": "items/images/en/thumbs/viper_wraith.47ad03fdead19969888235b7e959e426.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/viper_wraith.47ad03fdead19969888235b7e959e426.128x128.png",
 		"type": [
 			"weapon",
 			"secondary"
@@ -177,7 +177,7 @@
 		"name": "Wolf Sledge Set",
 		"url_name": "wolf_sledge_set",
 		"id": "5c7849e22cc6ce090383e267",
-		"thumbnailURL": "items/images/en/thumbs/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.128x128.png",
 		"type": [
 			"melee",
 			"weapon",
@@ -361,7 +361,7 @@
 		"name": "Vasto Prime Set",
 		"url_name": "vasto_prime_set",
 		"id": "56783f24cbfa8f0432dd89b0",
-		"thumbnailURL": "items/images/en/thumbs/vasto_prime_set.213e4b3b9b3be0f4facb77fd5242b6a4.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/vasto_prime_set.213e4b3b9b3be0f4facb77fd5242b6a4.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -377,7 +377,7 @@
 		"name": "Telos Akbolto",
 		"url_name": "telos_akbolto",
 		"id": "54aae272e7798975bbba5f07",
-		"thumbnailURL": "items/images/en/thumbs/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -390,7 +390,7 @@
 		"name": "Sancti Castanas",
 		"url_name": "sancti_castanas",
 		"id": "54aae2ace7798918750e63f2",
-		"thumbnailURL": "items/images/en/thumbs/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -464,7 +464,7 @@
 		"name": "Zhuge Prime Set",
 		"url_name": "zhuge_prime_set",
 		"id": "5d21ce49f4604c012d1e0c19",
-		"thumbnailURL": "items/images/en/thumbs/zhuge_prime_set.38e0e6189f1a333b382507a117b194a9.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/zhuge_prime_set.38e0e6189f1a333b382507a117b194a9.128x128.png",
 		"type": [
 			"primary",
 			"prime",
@@ -507,7 +507,7 @@
 		"name": "Dual Kamas Prime Set",
 		"url_name": "dual_kamas_prime_set",
 		"id": "56783f24cbfa8f0432dd8999",
-		"thumbnailURL": "items/images/en/thumbs/dual_kamas_prime_set.7d95cad6d71a59fa98902cc8bfe87da2.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/dual_kamas_prime_set.7d95cad6d71a59fa98902cc8bfe87da2.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -609,7 +609,7 @@
 		"name": "Snipetron Vandal Set",
 		"url_name": "snipetron_vandal_set",
 		"id": "5707cc07a820909ab922558e",
-		"thumbnailURL": "items/images/en/thumbs/snipetron_vandal_set.d820059db951ba5a4ac7c1d7ec8515f1.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/snipetron_vandal_set.d820059db951ba5a4ac7c1d7ec8515f1.128x128.png",
 		"type": [
 			"weapon",
 			"primary",
@@ -684,7 +684,7 @@
 		"name": "Destreza Prime Set",
 		"url_name": "destreza_prime_set",
 		"id": "5b2985e2eb069f04ea65b0f6",
-		"thumbnailURL": "items/images/en/thumbs/destreza_prime_set.b1a1cc461a2cfcf9998f0588c8e932a4.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/destreza_prime_set.b1a1cc461a2cfcf9998f0588c8e932a4.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -923,7 +923,7 @@
 		"name": "Stradavar Prime Set",
 		"url_name": "stradavar_prime_set",
 		"id": "5ca2866ffc2db2035eae059c",
-		"thumbnailURL": "items/images/en/thumbs/stradavar_prime_set.57c042a30996514288dfd70f2ce267ca.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/stradavar_prime_set.57c042a30996514288dfd70f2ce267ca.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1028,7 +1028,7 @@
 		"name": "Prisma Angstrum",
 		"url_name": "prisma_angstrum",
 		"id": "59b2a2468d62f4b743a21f31",
-		"thumbnailURL": "items/images/en/thumbs/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_angstrum.d35c4cf543441592a43b32ef44d251c1.128x128.png",
 		"type": [
 			"weapon",
 			"secondary"
@@ -1054,7 +1054,7 @@
 		"name": "Secura Penta",
 		"url_name": "secura_penta",
 		"id": "55e797e7e779892497cdf785",
-		"thumbnailURL": "items/images/en/thumbs/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.128x128.png",
 		"type": [
 			"syndicate",
 			"primary",
@@ -1067,7 +1067,7 @@
 		"name": "Vulkar Wraith",
 		"url_name": "vulkar_wraith",
 		"id": "58d8f22a11efe42a5e5231ff",
-		"thumbnailURL": "items/images/en/thumbs/vulkar_wraith.f8429a3c0e4db52e800fae7bc4aa19ea.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/vulkar_wraith.f8429a3c0e4db52e800fae7bc4aa19ea.128x128.png",
 		"type": [
 			"primary",
 			"weapon"
@@ -1122,7 +1122,7 @@
 		"name": "Synoid Gammacor",
 		"url_name": "synoid_gammacor",
 		"id": "54aae283e779897f276a5768",
-		"thumbnailURL": "items/images/en/thumbs/synoid_gammacor.16811422b2fab432718fd630acbf5358.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/synoid_gammacor.16811422b2fab432718fd630acbf5358.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -1135,7 +1135,7 @@
 		"name": "Rakta Ballistica",
 		"url_name": "rakta_ballistica",
 		"id": "54aae2a0e7798911533cb007",
-		"thumbnailURL": "items/images/en/thumbs/rakta_ballistica.2e338918b2298e17fa465e83d319cc13.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/rakta_ballistica.2e338918b2298e17fa465e83d319cc13.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -1148,7 +1148,7 @@
 		"name": "Silva & Aegis Prime Set",
 		"url_name": "silva_and_aegis_prime_set",
 		"id": "592dd262011e88f094afec8b",
-		"thumbnailURL": "items/images/en/thumbs/silva_and_aegis_prime_set.d226bbe86d3eccd8c751958dba46a4f6.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/silva_and_aegis_prime_set.d226bbe86d3eccd8c751958dba46a4f6.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1164,7 +1164,7 @@
 		"name": "Latron Prime Set",
 		"url_name": "latron_prime_set",
 		"id": "56783f24cbfa8f0432dd89a1",
-		"thumbnailURL": "items/images/en/thumbs/latron_prime_set.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/latron_prime_set.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1180,7 +1180,7 @@
 		"name": "Lex Prime Set",
 		"url_name": "lex_prime_set",
 		"id": "56783f24cbfa8f0432dd89a2",
-		"thumbnailURL": "items/images/en/thumbs/lex_prime_set.13776cf63dfd68968067b517184a6ac0.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/lex_prime_set.13776cf63dfd68968067b517184a6ac0.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1224,7 +1224,7 @@
 		"name": "Vectis Prime Set",
 		"url_name": "vectis_prime_set",
 		"id": "56783f24cbfa8f0432dd89b1",
-		"thumbnailURL": "items/images/en/thumbs/vectis_prime_set.028e001af4469482df80bff29542e043.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/vectis_prime_set.028e001af4469482df80bff29542e043.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1240,7 +1240,7 @@
 		"name": "Sicarus Prime Set",
 		"url_name": "sicarus_prime_set",
 		"id": "56783f24cbfa8f0432dd89ad",
-		"thumbnailURL": "items/images/en/thumbs/sicarus_prime_set.e7c07172e6d63d49ae349d508c56fc85.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/sicarus_prime_set.e7c07172e6d63d49ae349d508c56fc85.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1286,7 +1286,7 @@
 		"name": "Synoid Heliocor",
 		"url_name": "synoid_heliocor",
 		"id": "57dbdc525e334907aa8edb57",
-		"thumbnailURL": "items/images/en/thumbs/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -1344,7 +1344,7 @@
 		"name": "Braton Prime Set",
 		"url_name": "braton_prime_set",
 		"id": "56783f24cbfa8f0432dd8993",
-		"thumbnailURL": "items/images/en/thumbs/braton_prime_set.ae229642d6179ebfb1547ed7d976e749.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/braton_prime_set.ae229642d6179ebfb1547ed7d976e749.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1391,7 +1391,7 @@
 		"name": "Aklex Prime Set",
 		"url_name": "aklex_prime_set",
 		"id": "588c7a51c353473a172364f4",
-		"thumbnailURL": "items/images/en/thumbs/aklex_prime_set.d4be2f3e545d5e1101d5b83a027e68fe.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/aklex_prime_set.d4be2f3e545d5e1101d5b83a027e68fe.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1469,7 +1469,7 @@
 		"name": "Ninkondi Prime Set",
 		"url_name": "ninkondi_prime_set",
 		"id": "5d21ce45f4604c012d1e0c11",
-		"thumbnailURL": "items/images/en/thumbs/ninkondi_prime_set.d8516fa5fc9fe9518b6b9ec8fa59cb28.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/ninkondi_prime_set.d8516fa5fc9fe9518b6b9ec8fa59cb28.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1559,7 +1559,7 @@
 		"name": "Fang Prime Set",
 		"url_name": "fang_prime_set",
 		"id": "56783f24cbfa8f0432dd899b",
-		"thumbnailURL": "items/images/en/thumbs/fang_prime_set.13b0c690a76382d0fbdebe84e4c509db.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/fang_prime_set.13b0c690a76382d0fbdebe84e4c509db.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1575,7 +1575,7 @@
 		"name": "Euphona Prime Set",
 		"url_name": "euphona_prime_set",
 		"id": "58b57068eb26db5c31192113",
-		"thumbnailURL": "items/images/en/thumbs/euphona_prime_set.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/euphona_prime_set.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
 		"type": [
 			"prime",
 			"weapon",
@@ -1651,7 +1651,7 @@
 		"name": "Prisma Dual Cleavers",
 		"url_name": "prisma_dual_cleavers",
 		"id": "55a469a4e7798902410538b1",
-		"thumbnailURL": "items/images/en/thumbs/prisma_dual_cleavers.5fa78638ad0916b3f6acff746d006218.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_dual_cleavers.5fa78638ad0916b3f6acff746d006218.128x128.png",
 		"type": [
 			"weapon",
 			"melee"
@@ -1677,7 +1677,7 @@
 		"name": "Prisma Obex",
 		"url_name": "prisma_obex",
 		"id": "590e255197a0add8e9d5da4b",
-		"thumbnailURL": "items/images/en/thumbs/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.128x128.png",
 		"type": [
 			"weapon",
 			"melee"
@@ -1689,7 +1689,7 @@
 		"name": "Bo Prime Set",
 		"url_name": "bo_prime_set",
 		"id": "56783f24cbfa8f0432dd8990",
-		"thumbnailURL": "items/images/en/thumbs/bo_prime_set.fad65cfb95d62a4275be60be30375846.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/bo_prime_set.fad65cfb95d62a4275be60be30375846.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1705,7 +1705,7 @@
 		"name": "Boar Prime Set",
 		"url_name": "boar_prime_set",
 		"id": "56783f24cbfa8f0432dd8991",
-		"thumbnailURL": "items/images/en/thumbs/boar_prime_set.5e8a5ba1520169c7a99c738624328d26.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/boar_prime_set.5e8a5ba1520169c7a99c738624328d26.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1736,7 +1736,7 @@
 		"name": "Boltor Prime Set",
 		"url_name": "boltor_prime_set",
 		"id": "56783f24cbfa8f0432dd8992",
-		"thumbnailURL": "items/images/en/thumbs/boltor_prime_set.a26157003dea5b1e1fe6660f46f3ea11.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/boltor_prime_set.a26157003dea5b1e1fe6660f46f3ea11.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1765,7 +1765,7 @@
 		"name": "Strun Wraith Set",
 		"url_name": "strun_wraith_set",
 		"id": "56aba3108d6d183da42403c2",
-		"thumbnailURL": "items/images/en/thumbs/strun_wraith_set.0ef693321b08beb361c5a654663ecf32.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/strun_wraith_set.0ef693321b08beb361c5a654663ecf32.128x128.png",
 		"type": [
 			"weapon",
 			"primary",
@@ -1779,7 +1779,7 @@
 		"name": "Kogake Prime Set",
 		"url_name": "kogake_prime_set",
 		"id": "5a311f84c2c9e90dfff475f0",
-		"thumbnailURL": "items/images/en/thumbs/kogake_prime_set.456b865463108d6f6ff51da978f839cd.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/kogake_prime_set.456b865463108d6f6ff51da978f839cd.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -1810,7 +1810,7 @@
 		"name": "Lato Vandal Set",
 		"url_name": "lato_vandal_set",
 		"id": "5adf8729931bcf00574adc0f",
-		"thumbnailURL": "items/images/en/thumbs/lato_vandal_set.d3f82be07b93c35d6e1e9430c796ac9a.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/lato_vandal_set.d3f82be07b93c35d6e1e9430c796ac9a.128x128.png",
 		"type": [
 			"weapon",
 			"secondary",
@@ -1851,7 +1851,7 @@
 		"name": "Braton Vandal Set",
 		"url_name": "braton_vandal_set",
 		"id": "5adf872a931bcf00574adc15",
-		"thumbnailURL": "items/images/en/thumbs/braton_vandal_set.91c532bcac702702bf7d259bd5d4d553.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/braton_vandal_set.91c532bcac702702bf7d259bd5d4d553.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -1940,7 +1940,7 @@
 		"name": "Akvasto Prime Set",
 		"url_name": "akvasto_prime_set",
 		"id": "5bebf1713ffcc704caf38cf4",
-		"thumbnailURL": "items/images/en/thumbs/akvasto_prime_set.029887bbd387510ffec1debd81f65dab.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/akvasto_prime_set.029887bbd387510ffec1debd81f65dab.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -2001,7 +2001,7 @@
 		"name": "Furax Wraith Set",
 		"url_name": "furax_wraith_set",
 		"id": "59e91860f25be4e10d365720",
-		"thumbnailURL": "items/images/en/thumbs/furax_wraith_set.c460830e1437c5ab3cd37e2ea51b09a9.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/furax_wraith_set.c460830e1437c5ab3cd37e2ea51b09a9.128x128.png",
 		"type": [
 			"weapon",
 			"melee",
@@ -2031,7 +2031,7 @@
 		"name": "Prisma Grakata",
 		"url_name": "prisma_grakata",
 		"id": "55a46992e77989023be347fe",
-		"thumbnailURL": "items/images/en/thumbs/prisma_grakata.9a7efdc99822c298dc4ad06517450482.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_grakata.9a7efdc99822c298dc4ad06517450482.128x128.png",
 		"type": [
 			"primary",
 			"weapon"
@@ -2058,7 +2058,7 @@
 		"name": "Vaykor Sydon",
 		"url_name": "vaykor_sydon",
 		"id": "57dbdc525e334907aa8edb55",
-		"thumbnailURL": "items/images/en/thumbs/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -2099,7 +2099,7 @@
 		"name": "Ankyros Prime Set",
 		"url_name": "ankyros_prime_set",
 		"id": "56783f24cbfa8f0432dd898e",
-		"thumbnailURL": "items/images/en/thumbs/ankyros_prime_set.81b3e5876c214047d10a0d90f92ebdfe.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/ankyros_prime_set.81b3e5876c214047d10a0d90f92ebdfe.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -2130,7 +2130,7 @@
 		"name": "Prisma Tetra",
 		"url_name": "prisma_tetra",
 		"id": "56153f21b66f83707a67c0b4",
-		"thumbnailURL": "items/images/en/thumbs/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.128x128.png",
 		"type": [
 			"primary",
 			"weapon"
@@ -2142,7 +2142,7 @@
 		"name": "Paris Prime Set",
 		"url_name": "paris_prime_set",
 		"id": "56783f24cbfa8f0432dd89a9",
-		"thumbnailURL": "items/images/en/thumbs/paris_prime_set.971f957f8304ce10617836343d47b238.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/paris_prime_set.971f957f8304ce10617836343d47b238.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -2174,7 +2174,7 @@
 		"name": "Ballistica Prime Set",
 		"url_name": "ballistica_prime_set",
 		"id": "59a5c2565cd9938cfede703e",
-		"thumbnailURL": "items/images/en/thumbs/ballistica_prime_set.4ed33348008ace40406d0383f692ecac.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/ballistica_prime_set.4ed33348008ace40406d0383f692ecac.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -2296,7 +2296,7 @@
 		"name": "Venka Prime Set",
 		"url_name": "venka_prime_set",
 		"id": "58358e1d2c2ada00655a4ef7",
-		"thumbnailURL": "items/images/en/thumbs/venka_prime_set.123cb62ab1e8a4edd78997a256cf1e7f.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/venka_prime_set.123cb62ab1e8a4edd78997a256cf1e7f.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -2375,7 +2375,7 @@
 		"name": "Quanta Vandal",
 		"url_name": "quanta_vandal",
 		"id": "570e384396c62ba9d1795d21",
-		"thumbnailURL": "items/images/en/thumbs/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.128x128.png",
 		"type": [
 			"primary",
 			"weapon"
@@ -2387,7 +2387,7 @@
 		"name": "Mara Detron",
 		"url_name": "mara_detron",
 		"id": "54c6860ce7798913933a7a43",
-		"thumbnailURL": "items/images/en/thumbs/mara_detron.40e0e10a54d94f3947e9a07d438e9509.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/mara_detron.40e0e10a54d94f3947e9a07d438e9509.128x128.png",
 		"type": [
 			"weapon",
 			"secondary"
@@ -2476,7 +2476,7 @@
 		"name": "Prisma Veritux",
 		"url_name": "prisma_veritux",
 		"id": "54dd278ae7798934ecce4f0a",
-		"thumbnailURL": "items/images/en/thumbs/prisma_veritux.5130e65a3ebdac2da6ba0dccaef25861.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_veritux.5130e65a3ebdac2da6ba0dccaef25861.128x128.png",
 		"type": [
 			"weapon",
 			"archwing",
@@ -2489,7 +2489,7 @@
 		"name": "Akbronco Prime Set",
 		"url_name": "akbronco_prime_set",
 		"id": "56783f24cbfa8f0432dd898d",
-		"thumbnailURL": "items/images/en/thumbs/akbronco_prime_set.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/akbronco_prime_set.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -2505,7 +2505,7 @@
 		"name": "Dakra Prime Set",
 		"url_name": "dakra_prime_set",
 		"id": "56783f24cbfa8f0432dd8997",
-		"thumbnailURL": "items/images/en/thumbs/dakra_prime_set.785a613039ec892abc579c176f0b33da.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/dakra_prime_set.785a613039ec892abc579c176f0b33da.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -2521,7 +2521,7 @@
 		"name": "Dera Vandal Set",
 		"url_name": "dera_vandal_set",
 		"id": "56783f24cbfa8f0432dd8998",
-		"thumbnailURL": "items/images/en/thumbs/dera_vandal_set.15c5a1f8b62ab0520cf7394563f73aea.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/dera_vandal_set.15c5a1f8b62ab0520cf7394563f73aea.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -2575,7 +2575,7 @@
 		"name": "Latron Wraith Set",
 		"url_name": "latron_wraith_set",
 		"id": "57962daf19aaba0b00a9b1b4",
-		"thumbnailURL": "items/images/en/thumbs/latron_wraith_set.57295b3f36571ea8ea47471d7a70caea.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/latron_wraith_set.57295b3f36571ea8ea47471d7a70caea.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -2615,7 +2615,7 @@
 		"name": "Twin Vipers Wraith Set",
 		"url_name": "twin_vipers_wraith_set",
 		"id": "57bc94bae506eb45ea251450",
-		"thumbnailURL": "items/images/en/thumbs/twin_vipers_wraith_set.c80af69695edc4c30fb44018404ea432.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/twin_vipers_wraith_set.c80af69695edc4c30fb44018404ea432.128x128.png",
 		"type": [
 			"weapon",
 			"secondary",
@@ -2690,7 +2690,7 @@
 		"name": "Baza Prime Set",
 		"url_name": "baza_prime_set",
 		"id": "5df955121456970150510f22",
-		"thumbnailURL": "items/images/en/thumbs/baza_prime_set.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/baza_prime_set.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png",
 		"type": [
 			"primary",
 			"prime",
@@ -2706,7 +2706,7 @@
 		"name": "Aksomati Prime Set",
 		"url_name": "aksomati_prime_set",
 		"id": "5df955131456970150510f23",
-		"thumbnailURL": "items/images/en/thumbs/aksomati_prime_set.617fca3e38e6696ec87a6c28bd6bbebf.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/aksomati_prime_set.617fca3e38e6696ec87a6c28bd6bbebf.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -2924,7 +2924,7 @@
 		"name": "Hikou Prime Set",
 		"url_name": "hikou_prime_set",
 		"id": "56783f24cbfa8f0432dd899e",
-		"thumbnailURL": "items/images/en/thumbs/hikou_prime_set.cd5cefce60a4e85c15614139a8ee9400.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/hikou_prime_set.cd5cefce60a4e85c15614139a8ee9400.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -2986,7 +2986,7 @@
 		"name": "Prisma Gorgon",
 		"url_name": "prisma_gorgon",
 		"id": "54c686fee7798913eda0615b",
-		"thumbnailURL": "items/images/en/thumbs/prisma_gorgon.3d4fdb4c17592d735ccdad21868d3019.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_gorgon.3d4fdb4c17592d735ccdad21868d3019.128x128.png",
 		"type": [
 			"primary",
 			"weapon"
@@ -3039,7 +3039,7 @@
 		"name": "Machete Wraith",
 		"url_name": "machete_wraith",
 		"id": "56153f3bb66f83707da7eef9",
-		"thumbnailURL": "items/images/en/thumbs/machete_wraith.6d6dc37e4b72f552963591b652dbd5f9.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/machete_wraith.6d6dc37e4b72f552963591b652dbd5f9.128x128.png",
 		"type": [
 			"weapon",
 			"melee"
@@ -3051,7 +3051,7 @@
 		"name": "Prova Vandal",
 		"url_name": "prova_vandal",
 		"id": "56153f4cb66f837080b7120d",
-		"thumbnailURL": "items/images/en/thumbs/prova_vandal.05e4450f5ba01240165a9b0f63c7e973.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prova_vandal.05e4450f5ba01240165a9b0f63c7e973.128x128.png",
 		"type": [
 			"weapon",
 			"melee"
@@ -3063,7 +3063,7 @@
 		"name": "Reaper Prime Set",
 		"url_name": "reaper_prime_set",
 		"id": "56783f24cbfa8f0432dd89aa",
-		"thumbnailURL": "items/images/en/thumbs/reaper_prime_set.4e1d36812203a97fd0191930485b1095.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/reaper_prime_set.4e1d36812203a97fd0191930485b1095.128x128.png",
 		"type": [
 			"prime",
 			"weapon",
@@ -3156,7 +3156,7 @@
 		"name": "Sybaris Prime Set",
 		"url_name": "sybaris_prime_set",
 		"id": "592dd262011e88f094afec86",
-		"thumbnailURL": "items/images/en/thumbs/sybaris_prime_set.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/sybaris_prime_set.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png",
 		"type": [
 			"primary",
 			"prime",
@@ -3213,7 +3213,7 @@
 		"name": "Shedu Set",
 		"url_name": "shedu_set",
 		"id": "5dfea1481456970294aff3a3",
-		"thumbnailURL": "items/images/en/thumbs/shedu_set.765c016812e915e1e06ceb5e3820ae48.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/shedu_set.765c016812e915e1e06ceb5e3820ae48.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -3240,7 +3240,7 @@
 		"name": "Redeemer Prime Set",
 		"url_name": "redeemer_prime_set",
 		"id": "5c196faf96037800ddadac17",
-		"thumbnailURL": "items/images/en/thumbs/redeemer_prime_set.92fcede37c1ab66d22a2287dc2334731.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/redeemer_prime_set.92fcede37c1ab66d22a2287dc2334731.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -3285,7 +3285,7 @@
 		"name": "Orthos Prime Set",
 		"url_name": "orthos_prime_set",
 		"id": "56783f24cbfa8f0432dd89a8",
-		"thumbnailURL": "items/images/en/thumbs/orthos_prime_set.049c8584708b849d1eff500b182825f2.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/orthos_prime_set.049c8584708b849d1eff500b182825f2.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -3314,7 +3314,7 @@
 		"name": "Secura Lecta",
 		"url_name": "secura_lecta",
 		"id": "57dbdc525e334907aa8edb58",
-		"thumbnailURL": "items/images/en/thumbs/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -3372,7 +3372,7 @@
 		"name": "Tigris Prime Set",
 		"url_name": "tigris_prime_set",
 		"id": "57bc9c84e506eb45ea251455",
-		"thumbnailURL": "items/images/en/thumbs/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
 		"type": [
 			"primary",
 			"prime",
@@ -3388,7 +3388,7 @@
 		"name": "Rakta Dark Dagger",
 		"url_name": "rakta_dark_dagger",
 		"id": "57dbdc525e334907aa8edb59",
-		"thumbnailURL": "items/images/en/thumbs/rakta_dark_dagger.c59954c3d3a9a925e98caee4ac7d20af.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/rakta_dark_dagger.c59954c3d3a9a925e98caee4ac7d20af.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -3460,7 +3460,7 @@
 		"name": "Karak Wraith Set",
 		"url_name": "karak_wraith_set",
 		"id": "56783f24cbfa8f0432dd899f",
-		"thumbnailURL": "items/images/en/thumbs/karak_wraith_set.b26c71305a536b33e469bc4a8866adea.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/karak_wraith_set.b26c71305a536b33e469bc4a8866adea.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -3474,7 +3474,7 @@
 		"name": "Fragor Prime Set",
 		"url_name": "fragor_prime_set",
 		"id": "573b802f0ec44a47787a6914",
-		"thumbnailURL": "items/images/en/thumbs/fragor_prime_set.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/fragor_prime_set.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -3672,7 +3672,7 @@
 		"name": "Sancti Magistar",
 		"url_name": "sancti_magistar",
 		"id": "57dbdc525e334907aa8edb5a",
-		"thumbnailURL": "items/images/en/thumbs/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -3685,7 +3685,7 @@
 		"name": "Prisma Grinlok",
 		"url_name": "prisma_grinlok",
 		"id": "5c8693d22cc6ce0bbc095d9c",
-		"thumbnailURL": "items/images/en/thumbs/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.128x128.png",
 		"type": [
 			"primary",
 			"weapon"
@@ -3713,7 +3713,7 @@
 		"name": "Vaykor Marelok",
 		"url_name": "vaykor_marelok",
 		"id": "54aae25de7798968b372a4e1",
-		"thumbnailURL": "items/images/en/thumbs/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -3741,7 +3741,7 @@
 		"name": "Pangolin Prime Set",
 		"url_name": "pangolin_prime_set",
 		"id": "5e839495267539077b0dd6c9",
-		"thumbnailURL": "items/images/en/thumbs/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/pangolin_prime_set.0b93ac58408417e3f8646ccf1fb5a77e.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -3757,7 +3757,7 @@
 		"name": "Centaur Set",
 		"url_name": "centaur_set",
 		"id": "582b0f870af25410b099f7fc",
-		"thumbnailURL": "items/images/en/thumbs/centaur_set.7365135b7b3831714b657721d6b1df22.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/centaur_set.7365135b7b3831714b657721d6b1df22.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -3772,7 +3772,7 @@
 		"name": "Onorix Set",
 		"url_name": "onorix_set",
 		"id": "582b0f880af25410b099f7fd",
-		"thumbnailURL": "items/images/en/thumbs/onorix_set.04c7efcf7c6239c88c275d164d6a259a.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/onorix_set.04c7efcf7c6239c88c275d164d6a259a.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -3787,7 +3787,7 @@
 		"name": "Agkuza Set",
 		"url_name": "agkuza_set",
 		"id": "582b0f890af25410b099f7fe",
-		"thumbnailURL": "items/images/en/thumbs/agkuza_set.037f45c1777df3ce5657b0c40aac04b1.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/agkuza_set.037f45c1777df3ce5657b0c40aac04b1.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -3802,7 +3802,7 @@
 		"name": "Corvas Set",
 		"url_name": "corvas_set",
 		"id": "582b0f890af25410b099f7ff",
-		"thumbnailURL": "items/images/en/thumbs/corvas_set.0248b2ad006d7ad6a460cc03eac4baa7.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/corvas_set.0248b2ad006d7ad6a460cc03eac4baa7.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -3817,7 +3817,7 @@
 		"name": "Rathbone Set",
 		"url_name": "rathbone_set",
 		"id": "582b0f8a0af25410b099f800",
-		"thumbnailURL": "items/images/en/thumbs/rathbone_set.7e6a0db9a09fae95a9f6a4e96b1f0979.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/rathbone_set.7e6a0db9a09fae95a9f6a4e96b1f0979.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -3965,7 +3965,7 @@
 		"name": "Glaive Prime Set",
 		"url_name": "glaive_prime_set",
 		"id": "56783f24cbfa8f0432dd899d",
-		"thumbnailURL": "items/images/en/thumbs/glaive_prime_set.17767ab370f143a315df90177995ef92.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/glaive_prime_set.17767ab370f143a315df90177995ef92.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -3981,7 +3981,7 @@
 		"name": "Scindo Prime Set",
 		"url_name": "scindo_prime_set",
 		"id": "56783f24cbfa8f0432dd89ac",
-		"thumbnailURL": "items/images/en/thumbs/scindo_prime_set.ae70ac90b811a44f64263394b6410c28.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/scindo_prime_set.ae70ac90b811a44f64263394b6410c28.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -3997,7 +3997,7 @@
 		"name": "Telos Boltace",
 		"url_name": "telos_boltace",
 		"id": "57dbdc525e334907aa8edb56",
-		"thumbnailURL": "items/images/en/thumbs/telos_boltace.9dc9593274da1116201b84905a53f506.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/telos_boltace.9dc9593274da1116201b84905a53f506.128x128.png",
 		"type": [
 			"syndicate",
 			"weapon",
@@ -4070,7 +4070,7 @@
 		"name": "Akstiletto Prime Set",
 		"url_name": "akstiletto_prime_set",
 		"id": "573b805f0ec44a47787a6919",
-		"thumbnailURL": "items/images/en/thumbs/akstiletto_prime_set.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/akstiletto_prime_set.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -4086,7 +4086,7 @@
 		"name": "Stropha Set",
 		"url_name": "stropha_set",
 		"id": "5ee76f4b04d55c0a81972432",
-		"thumbnailURL": "items/images/en/thumbs/stropha_set.08c23ce01edf041f6204aa470f8f12c9.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/stropha_set.08c23ce01edf041f6204aa470f8f12c9.128x128.png",
 		"type": [
 			"weapon",
 			"melee",
@@ -4100,7 +4100,7 @@
 		"name": "Velox Set",
 		"url_name": "velox_set",
 		"id": "5ee76f4b04d55c0a81972433",
-		"thumbnailURL": "items/images/en/thumbs/velox_set.8d807d2b4f5eddf0d1b17e52adc717ac.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/velox_set.8d807d2b4f5eddf0d1b17e52adc717ac.128x128.png",
 		"type": [
 			"weapon",
 			"secondary",
@@ -4127,7 +4127,7 @@
 		"name": "Stahlta Set",
 		"url_name": "stahlta_set",
 		"id": "5ee76f4b04d55c0a81972435",
-		"thumbnailURL": "items/images/en/thumbs/stahlta_set.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/stahlta_set.30d7537c3158976f86998e5b9fa05f96.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -4245,7 +4245,7 @@
 		"name": "Glaxion Vandal",
 		"url_name": "glaxion_vandal",
 		"id": "5ef0a62004d55c0c40f06525",
-		"thumbnailURL": "items/images/en/thumbs/glaxion_vandal.6014173d9027f07df11bf4bd68f5eeb8.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/glaxion_vandal.6014173d9027f07df11bf4bd68f5eeb8.128x128.png",
 		"type": [
 			"primary",
 			"weapon"
@@ -4287,7 +4287,7 @@
 		"name": "Karyst Prime Set",
 		"url_name": "karyst_prime_set",
 		"id": "5f0e0fdc9f527b0285718f19",
-		"thumbnailURL": "items/images/en/thumbs/karyst_prime_set.4ac2616227b5e4e2e42e44473acf9a91.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/karyst_prime_set.4ac2616227b5e4e2e42e44473acf9a91.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -4303,7 +4303,7 @@
 		"name": "Panthera Prime Set",
 		"url_name": "panthera_prime_set",
 		"id": "5f0e0fdc9f527b0285718f1a",
-		"thumbnailURL": "items/images/en/thumbs/panthera_prime_set.7a4ebdc3f85ef877a6ffce8790660e30.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/panthera_prime_set.7a4ebdc3f85ef877a6ffce8790660e30.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -4458,7 +4458,7 @@
 		"name": "Phaedra Set",
 		"url_name": "phaedra_set",
 		"id": "582b0f870af25410b099f7fb",
-		"thumbnailURL": "items/images/en/thumbs/phaedra_set.93a06c74d5ecc242c76ea0ff91e3d9ca.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/phaedra_set.93a06c74d5ecc242c76ea0ff91e3d9ca.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -4488,7 +4488,7 @@
 		"name": "Cernos Prime Set",
 		"url_name": "cernos_prime_set",
 		"id": "583580ff2c2ada003badef8a",
-		"thumbnailURL": "items/images/en/thumbs/cernos_prime_set.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/cernos_prime_set.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png",
 		"type": [
 			"primary",
 			"prime",
@@ -4533,7 +4533,7 @@
 		"name": "Imperator Vandal Set",
 		"url_name": "imperator_vandal_set",
 		"id": "5740c17f9d238d4a03d28517",
-		"thumbnailURL": "items/images/en/thumbs/imperator_vandal_set.a7802d291f16f9dcd97afb2e69c879b6.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/imperator_vandal_set.a7802d291f16f9dcd97afb2e69c879b6.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -4548,7 +4548,7 @@
 		"name": "Vaykor Hek",
 		"url_name": "vaykor_hek",
 		"id": "55e797c8e779892474566543",
-		"thumbnailURL": "items/images/en/thumbs/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.128x128.png",
 		"type": [
 			"syndicate",
 			"primary",
@@ -4649,7 +4649,7 @@
 		"name": "Akbolto Prime Set",
 		"url_name": "akbolto_prime_set",
 		"id": "5a311f84c2c9e90dfff475f1",
-		"thumbnailURL": "items/images/en/thumbs/akbolto_prime_set.fdb7b0be60ed776a1ba1d800d7cda22b.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/akbolto_prime_set.fdb7b0be60ed776a1ba1d800d7cda22b.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -4753,7 +4753,7 @@
 		"name": "Gorgon Wraith Set",
 		"url_name": "gorgon_wraith_set",
 		"id": "591844575c170664fbd37eb2",
-		"thumbnailURL": "items/images/en/thumbs/gorgon_wraith_set.2fe2c6cae89adbecbba049aafcd664d7.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/gorgon_wraith_set.2fe2c6cae89adbecbba049aafcd664d7.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -4830,7 +4830,7 @@
 		"name": "Nikana Prime Set",
 		"url_name": "nikana_prime_set",
 		"id": "56c3bbfc5d2f0202da32e943",
-		"thumbnailURL": "items/images/en/thumbs/nikana_prime_set.2daac0807a52385bfcf62f71075f2221.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/nikana_prime_set.2daac0807a52385bfcf62f71075f2221.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -4846,7 +4846,7 @@
 		"name": "Cyngas Set",
 		"url_name": "cyngas_set",
 		"id": "58284d9f0af2540aa8de3495",
-		"thumbnailURL": "items/images/en/thumbs/cyngas_set.5b9891a467264b6048cd58b409911767.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/cyngas_set.5b9891a467264b6048cd58b409911767.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -4861,7 +4861,7 @@
 		"name": "Broken War Set",
 		"url_name": "broken_war_set",
 		"id": "582b0eb80af25410a4931616",
-		"thumbnailURL": "items/images/en/thumbs/broken_war_set.a42d7af24d80abea602d631293f89b13.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/broken_war_set.a42d7af24d80abea602d631293f89b13.128x128.png",
 		"type": [
 			"melee",
 			"weapon",
@@ -4890,7 +4890,7 @@
 		"name": "Kaszas Set",
 		"url_name": "kaszas_set",
 		"id": "582b0f630af25410b099f7f7",
-		"thumbnailURL": "items/images/en/thumbs/kaszas_set.11baea8229af2d3500c79b829f9dfcee.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/kaszas_set.11baea8229af2d3500c79b829f9dfcee.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -4905,7 +4905,7 @@
 		"name": "Velocitus Set",
 		"url_name": "velocitus_set",
 		"id": "582b0f850af25410b099f7f8",
-		"thumbnailURL": "items/images/en/thumbs/velocitus_set.0e2289bd3cc8bba9a0393d1fad061ab6.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/velocitus_set.0e2289bd3cc8bba9a0393d1fad061ab6.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -4920,7 +4920,7 @@
 		"name": "Fluctus Set",
 		"url_name": "fluctus_set",
 		"id": "582b0f850af25410b099f7f9",
-		"thumbnailURL": "items/images/en/thumbs/fluctus_set.764b2148dde0c8969f748d6e0b80f957.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/fluctus_set.764b2148dde0c8969f748d6e0b80f957.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -4935,7 +4935,7 @@
 		"name": "Dual Decurion Set",
 		"url_name": "dual_decurion_set",
 		"id": "582b0f860af25410b099f7fa",
-		"thumbnailURL": "items/images/en/thumbs/dual_decurion_set.5682bc698e5481541faba69246a2c248.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/dual_decurion_set.5682bc698e5481541faba69246a2c248.128x128.png",
 		"type": [
 			"weapon",
 			"set",
@@ -5054,7 +5054,7 @@
 		"name": "Spira Prime Set",
 		"url_name": "spira_prime_set",
 		"id": "56c3bc1c5d2f0202da32e947",
-		"thumbnailURL": "items/images/en/thumbs/spira_prime_set.1a495b1cb31bba268dc7a50f2a4f7134.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/spira_prime_set.1a495b1cb31bba268dc7a50f2a4f7134.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -5096,7 +5096,7 @@
 		"name": "Sheev Set",
 		"url_name": "sheev_set",
 		"id": "56dac5645cc639de0a45c51a",
-		"thumbnailURL": "items/images/en/thumbs/sheev_set.96c63b432f3d71f2bf5918e9f8d721fa.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/sheev_set.96c63b432f3d71f2bf5918e9f8d721fa.128x128.png",
 		"type": [
 			"melee",
 			"weapon",
@@ -5138,7 +5138,7 @@
 		"name": "Nami Skyla Prime Set",
 		"url_name": "nami_skyla_prime_set",
 		"id": "59a5c2565cd9938cfede7040",
-		"thumbnailURL": "items/images/en/thumbs/nami_skyla_prime_set.d83bcdd72463d5dd1f78faea07ff02a4.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/nami_skyla_prime_set.d83bcdd72463d5dd1f78faea07ff02a4.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -5154,7 +5154,7 @@
 		"name": "Kronen Prime Set",
 		"url_name": "kronen_prime_set",
 		"id": "5ab167b7b2b6a80475780fb3",
-		"thumbnailURL": "items/images/en/thumbs/kronen_prime_set.09023145e06199878b94a9c664e95ce7.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/kronen_prime_set.09023145e06199878b94a9c664e95ce7.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -5185,7 +5185,7 @@
 		"name": "Tiberon Prime Set",
 		"url_name": "tiberon_prime_set",
 		"id": "5ab167b8b2b6a80475780fc0",
-		"thumbnailURL": "items/images/en/thumbs/tiberon_prime_set.53f3cf1c68314c0555fbb7020d01f001.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/tiberon_prime_set.53f3cf1c68314c0555fbb7020d01f001.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -5216,7 +5216,7 @@
 		"name": "Tipedo Prime Set",
 		"url_name": "tipedo_prime_set",
 		"id": "5ca28670fc2db2035eae05a2",
-		"thumbnailURL": "items/images/en/thumbs/tipedo_prime_set.fd4fdcee6ab035eddce9a802ff091cfd.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/tipedo_prime_set.fd4fdcee6ab035eddce9a802ff091cfd.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -5263,7 +5263,7 @@
 		"name": "Tekko Prime Set",
 		"url_name": "tekko_prime_set",
 		"id": "5d93ca127ea27b0a87566f7b",
-		"thumbnailURL": "items/images/en/thumbs/tekko_prime_set.ace5f3ef4976ceae04ed01d8fcc695c7.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/tekko_prime_set.ace5f3ef4976ceae04ed01d8fcc695c7.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -5295,7 +5295,7 @@
 		"name": "Damaged Necramech Weapon Set",
 		"url_name": "damaged_necramech_weapon_set",
 		"id": "5f498a219426ed00443bd0a8",
-		"thumbnailURL": "items/images/en/thumbs/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.128x128.webp",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.128x128.webp",
 		"type": [
 			"necramech",
 			"weapon",
@@ -5366,7 +5366,7 @@
 		"name": "Arum Spinosa Set",
 		"url_name": "arum_spinosa_set",
 		"id": "5fb84768c34da3004797d545",
-		"thumbnailURL": "items/images/en/thumbs/arum_spinosa_set.a676e9febc397c744ba0f3d4f13b891f.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/arum_spinosa_set.a676e9febc397c744ba0f3d4f13b891f.128x128.png",
 		"type": [
 			"melee",
 			"weapon",
@@ -5380,7 +5380,7 @@
 		"name": "Sporothrix Set",
 		"url_name": "sporothrix_set",
 		"id": "5fb84768c34da3004797d546",
-		"thumbnailURL": "items/images/en/thumbs/sporothrix_set.d9a3fe663f9fee156958a698e597a6bb.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/sporothrix_set.d9a3fe663f9fee156958a698e597a6bb.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -5394,7 +5394,7 @@
 		"name": "Cortege Set",
 		"url_name": "cortege_set",
 		"id": "5fde10c66db57b0185b39084",
-		"thumbnailURL": "items/images/en/thumbs/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.128x128.png",
 		"type": [
 			"primary",
 			"archwing",
@@ -5409,7 +5409,7 @@
 		"name": "Prisma Dual Decurions",
 		"url_name": "prisma_dual_decurions",
 		"id": "5fe0ea836db57b0225115013",
-		"thumbnailURL": "items/images/en/thumbs/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.128x128.png",
 		"type": [
 			"archwing",
 			"weapon",
@@ -5448,7 +5448,7 @@
 		"name": "Cedo Set",
 		"url_name": "cedo_set",
 		"id": "5fe0ea836db57b0225115018",
-		"thumbnailURL": "items/images/en/thumbs/cedo_set.beb0319f93c38fe11119204a3ed47614.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/cedo_set.beb0319f93c38fe11119204a3ed47614.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -5519,7 +5519,7 @@
 		"name": "Rubico Prime Set",
 		"url_name": "rubico_prime_set",
 		"id": "5baa8bbe4567de01ac283491",
-		"thumbnailURL": "items/images/en/thumbs/rubico_prime_set.2071211bc2436d4e768dbb61f98f6efd.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/rubico_prime_set.2071211bc2436d4e768dbb61f98f6efd.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -5653,7 +5653,7 @@
 		"name": "Burston Prime Set",
 		"url_name": "burston_prime_set",
 		"id": "56783f24cbfa8f0432dd8995",
-		"thumbnailURL": "items/images/en/thumbs/burston_prime_set.9fc6c6a6dca24113027828df669cd89e.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/burston_prime_set.9fc6c6a6dca24113027828df669cd89e.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -5669,7 +5669,7 @@
 		"name": "Soma Prime Set",
 		"url_name": "soma_prime_set",
 		"id": "56783f24cbfa8f0432dd89ae",
-		"thumbnailURL": "items/images/en/thumbs/soma_prime_set.1bf4937a6c2106c373cffeb93b1c87e0.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/soma_prime_set.1bf4937a6c2106c373cffeb93b1c87e0.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -5850,7 +5850,7 @@
 		"name": "Akjagara Prime Set",
 		"url_name": "akjagara_prime_set",
 		"id": "5c196fae96037800ddadac15",
-		"thumbnailURL": "items/images/en/thumbs/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
 		"type": [
 			"secondary",
 			"weapon",
@@ -5954,7 +5954,7 @@
 		"name": "Prisma Twin Gremlins",
 		"url_name": "prisma_twin_gremlins",
 		"id": "5b802081b6de7905dcd87475",
-		"thumbnailURL": "items/images/en/thumbs/prisma_twin_gremlins.66da9249ef4b5546db8676d3c137b757.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_twin_gremlins.66da9249ef4b5546db8676d3c137b757.128x128.png",
 		"type": [
 			"weapon",
 			"secondary"
@@ -6011,7 +6011,7 @@
 		"name": "Gram Prime Set",
 		"url_name": "gram_prime_set",
 		"id": "5baa8bbf4567de01ac283497",
-		"thumbnailURL": "items/images/en/thumbs/gram_prime_set.678c245a88b54368ae895b73b6987231.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/gram_prime_set.678c245a88b54368ae895b73b6987231.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -6027,7 +6027,7 @@
 		"name": "Sancti Tigris",
 		"url_name": "sancti_tigris",
 		"id": "55e797fde7798924a5a5650a",
-		"thumbnailURL": "items/images/en/thumbs/sancti_tigris.fd7c28cbc2f605d4a7d23ce1319ea87e.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/sancti_tigris.fd7c28cbc2f605d4a7d23ce1319ea87e.128x128.png",
 		"type": [
 			"syndicate",
 			"primary",
@@ -6114,7 +6114,7 @@
 		"name": "Pyrana Prime Set",
 		"url_name": "pyrana_prime_set",
 		"id": "5b2985e3eb069f04ea65b0fa",
-		"thumbnailURL": "items/images/en/thumbs/pyrana_prime_set.006fc1f35a3662cb6d84ce6a7f63cd9e.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/pyrana_prime_set.006fc1f35a3662cb6d84ce6a7f63cd9e.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -6130,7 +6130,7 @@
 		"name": "Supra Vandal",
 		"url_name": "supra_vandal",
 		"id": "5ada1ab3b2b6a80bb33793f4",
-		"thumbnailURL": "items/images/en/thumbs/supra_vandal.f8186c7314e1599aeb861fce024e701d.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/supra_vandal.f8186c7314e1599aeb861fce024e701d.128x128.png",
 		"type": [
 			"primary",
 			"weapon"
@@ -6270,7 +6270,7 @@
 		"name": "Guandao Prime Set",
 		"url_name": "guandao_prime_set",
 		"id": "5f986cf89dbdce024971b0b6",
-		"thumbnailURL": "items/images/en/thumbs/guandao_prime_set.cded3d77be7d60eef1d3eb82f189e70f.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/guandao_prime_set.cded3d77be7d60eef1d3eb82f189e70f.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -6286,7 +6286,7 @@
 		"name": "Zakti Prime Set",
 		"url_name": "zakti_prime_set",
 		"id": "5f986cf99dbdce024971b0ba",
-		"thumbnailURL": "items/images/en/thumbs/zakti_prime_set.42dbab2b3b28d1291c7e803ad83e29fa.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/zakti_prime_set.42dbab2b3b28d1291c7e803ad83e29fa.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -6384,7 +6384,7 @@
 		"name": "Spectra Vandal Set",
 		"url_name": "spectra_vandal_set",
 		"id": "5dfea13c1456970294aff35d",
-		"thumbnailURL": "items/images/en/thumbs/spectra_vandal_set.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/spectra_vandal_set.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
 		"type": [
 			"weapon",
 			"modular",
@@ -6413,7 +6413,7 @@
 		"name": "Prisma Skana",
 		"url_name": "prisma_skana",
 		"id": "55e76cf1e779890d4a67ee18",
-		"thumbnailURL": "items/images/en/thumbs/prisma_skana.84da73ea0e4ee4e1d75c9e2f4763d8bf.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_skana.84da73ea0e4ee4e1d75c9e2f4763d8bf.128x128.png",
 		"type": [
 			"weapon",
 			"melee"
@@ -6425,7 +6425,7 @@
 		"name": "Bronco Prime Set",
 		"url_name": "bronco_prime_set",
 		"id": "56783f24cbfa8f0432dd8994",
-		"thumbnailURL": "items/images/en/thumbs/bronco_prime_set.aa5499a3b26806f1f26a987be9dcf0ca.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/bronco_prime_set.aa5499a3b26806f1f26a987be9dcf0ca.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -6468,7 +6468,7 @@
 		"name": "Pathocyst Set",
 		"url_name": "pathocyst_set",
 		"id": "5d8f65b27ea27b0968b6e579",
-		"thumbnailURL": "items/images/en/thumbs/pathocyst_set.f423b7a6a78d2e4780c1007f0f0fb464.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/pathocyst_set.f423b7a6a78d2e4780c1007f0f0fb464.128x128.png",
 		"type": [
 			"weapon",
 			"melee",
@@ -6495,7 +6495,7 @@
 		"name": "Pennant Blueprint",
 		"url_name": "pennant_blueprint",
 		"id": "5dff6e111456970316674a1c",
-		"thumbnailURL": "items/images/en/thumbs/pennant_blueprint.c466162ce14d3ae4acbf5ccae316026c.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/pennant_blueprint.c466162ce14d3ae4acbf5ccae316026c.128x128.png",
 		"type": [
 			"weapon",
 			"melee",
@@ -6508,7 +6508,7 @@
 		"name": "Quellor Blueprint",
 		"url_name": "quellor_blueprint",
 		"id": "5dff6e111456970316674a20",
-		"thumbnailURL": "items/images/en/thumbs/quellor_blueprint.4a72101e1ef7e50287d619e68a44d97e.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/quellor_blueprint.4a72101e1ef7e50287d619e68a44d97e.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -6521,7 +6521,7 @@
 		"name": "Synoid Simulor",
 		"url_name": "synoid_simulor",
 		"id": "55e797dde77989248e0e6d54",
-		"thumbnailURL": "items/images/en/thumbs/synoid_simulor.9daa9583eb6d6d86f549933b6d0ff163.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/synoid_simulor.9daa9583eb6d6d86f549933b6d0ff163.128x128.png",
 		"type": [
 			"syndicate",
 			"primary",
@@ -6592,7 +6592,7 @@
 		"name": "Galatine Prime Set",
 		"url_name": "galatine_prime_set",
 		"id": "57bc9c99e506eb45ea25145a",
-		"thumbnailURL": "items/images/en/thumbs/galatine_prime_set.066b855eb73def09ca5f21f677010098.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/galatine_prime_set.066b855eb73def09ca5f21f677010098.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -6624,7 +6624,7 @@
 		"name": "Zylok",
 		"url_name": "zylok",
 		"id": "5e4e4a3526753901984c2f24",
-		"thumbnailURL": "items/images/en/thumbs/zylok.3cb47888884190e96ec8c08c281b508c.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/zylok.3cb47888884190e96ec8c08c281b508c.128x128.png",
 		"type": [
 			"weapon",
 			"secondary"
@@ -6651,7 +6651,7 @@
 		"name": "Rakta Cernos",
 		"url_name": "rakta_cernos",
 		"id": "55e797f3e77989249d164946",
-		"thumbnailURL": "items/images/en/thumbs/rakta_cernos.3ca06a77423c5b28b8d7a9f9d860a92c.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/rakta_cernos.3ca06a77423c5b28b8d7a9f9d860a92c.128x128.png",
 		"type": [
 			"syndicate",
 			"primary",
@@ -6694,7 +6694,7 @@
 		"name": "Corinth Prime Set",
 		"url_name": "corinth_prime_set",
 		"id": "5e839493267539077b0dd6a5",
-		"thumbnailURL": "items/images/en/thumbs/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/corinth_prime_set.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -6858,7 +6858,7 @@
 		"name": "Morgha Set",
 		"url_name": "morgha_set",
 		"id": "5fde10c36db57b0185b39078",
-		"thumbnailURL": "items/images/en/thumbs/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.128x128.png",
 		"type": [
 			"primary",
 			"archwing",
@@ -6873,7 +6873,7 @@
 		"name": "Ceti Lacera Blueprint",
 		"url_name": "ceti_lacera_blueprint",
 		"id": "5fde10c36db57b0185b39079",
-		"thumbnailURL": "items/images/en/thumbs/ceti_lacera_blueprint.a867f2ea0f314050b613e5e49012cc6f.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/ceti_lacera_blueprint.a867f2ea0f314050b613e5e49012cc6f.128x128.png",
 		"type": [
 			"weapon",
 			"melee",
@@ -6886,7 +6886,7 @@
 		"name": "Basmu Blueprint",
 		"url_name": "basmu_blueprint",
 		"id": "5fde10c56db57b0185b3907f",
-		"thumbnailURL": "items/images/en/thumbs/basmu_blueprint.ab36934ae211962ea583e628c1a5cfbb.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/basmu_blueprint.ab36934ae211962ea583e628c1a5cfbb.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -6944,7 +6944,7 @@
 		"name": "Pandero Prime Set",
 		"url_name": "pandero_prime_set",
 		"id": "6036214f0a372600fd5614d2",
-		"thumbnailURL": "items/images/en/thumbs/pandero_prime_set.b83adf601737a6357fb8a5c06b637e8f.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/pandero_prime_set.b83adf601737a6357fb8a5c06b637e8f.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -6975,7 +6975,7 @@
 		"name": "Tenora Prime Set",
 		"url_name": "tenora_prime_set",
 		"id": "6036214f0a372600fd5614d4",
-		"thumbnailURL": "items/images/en/thumbs/tenora_prime_set.cdda299ba3526be64a78df20883fd173.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/tenora_prime_set.cdda299ba3526be64a78df20883fd173.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -7144,7 +7144,7 @@
 		"name": "Carmine Penta Set",
 		"url_name": "carmine_penta_set",
 		"id": "60575dd690a69e0070a89ed5",
-		"thumbnailURL": "items/images/en/thumbs/carmine_penta_set.c1aca6866f8ca8647358966756a8a81b.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/carmine_penta_set.c1aca6866f8ca8647358966756a8a81b.128x128.png",
 		"type": [
 			"weapon",
 			"primary",
@@ -7198,7 +7198,7 @@
 		"name": "Athodai Set",
 		"url_name": "athodai_set",
 		"id": "605b1de967ea0b004939c996",
-		"thumbnailURL": "items/images/en/thumbs/athodai_set.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/athodai_set.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png",
 		"type": [
 			"weapon",
 			"secondary",
@@ -7212,7 +7212,7 @@
 		"name": "Halikar Wraith",
 		"url_name": "halikar_wraith",
 		"id": "6070924a84a7d7024402d51e",
-		"thumbnailURL": "items/images/en/thumbs/halikar_wraith.8bb2ffb98fe8bc6b152413dd77e2e6ce.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/halikar_wraith.8bb2ffb98fe8bc6b152413dd77e2e6ce.128x128.png",
 		"type": [
 			"melee",
 			"weapon"
@@ -7237,7 +7237,7 @@
 		"name": "Epitaph Set",
 		"url_name": "epitaph_set",
 		"id": "60783dec84a7d703418582d0",
-		"thumbnailURL": "items/images/en/thumbs/epitaph_set.b3a75cdcef1c7ba2971d2c550f8390e3.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/epitaph_set.b3a75cdcef1c7ba2971d2c550f8390e3.128x128.png",
 		"type": [
 			"weapon",
 			"secondary",
@@ -7308,7 +7308,7 @@
 		"name": "Volnus Prime Set",
 		"url_name": "volnus_prime_set",
 		"id": "60ad4a1bf1904300d012c700",
-		"thumbnailURL": "items/images/en/thumbs/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -7370,7 +7370,7 @@
 		"name": "Astilla Prime Set",
 		"url_name": "astilla_prime_set",
 		"id": "60ad4a1cf1904300d012c708",
-		"thumbnailURL": "items/images/en/thumbs/astilla_prime_set.4bad71b95376c38d100a5d8caa581266.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/astilla_prime_set.4bad71b95376c38d100a5d8caa581266.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -7417,7 +7417,7 @@
 		"name": "Prisma Machete",
 		"url_name": "prisma_machete",
 		"id": "60df11f0169993009bbb0d11",
-		"thumbnailURL": "items/images/en/thumbs/prisma_machete.077ffe0833496d83db56de828d5b45ec.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_machete.077ffe0833496d83db56de828d5b45ec.128x128.png",
 		"type": [
 			"melee",
 			"weapon"
@@ -7429,7 +7429,7 @@
 		"name": "Opticor Vandal",
 		"url_name": "opticor_vandal",
 		"id": "60df162816999300b9dd13c1",
-		"thumbnailURL": "items/images/en/thumbs/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.128x128.png",
 		"type": [
 			"primary",
 			"weapon"
@@ -7454,7 +7454,7 @@
 		"name": "Ambassador Set",
 		"url_name": "ambassador_set",
 		"id": "60f3feb1b64404003f0bf5fb",
-		"thumbnailURL": "items/images/en/thumbs/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -7508,7 +7508,7 @@
 		"name": "Strun Prime Set",
 		"url_name": "strun_prime_set",
 		"id": "6139101830dd5b004b7f9096",
-		"thumbnailURL": "items/images/en/thumbs/strun_prime_set.e7f858160a34886c105633deab6b343e.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/strun_prime_set.e7f858160a34886c105633deab6b343e.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -7524,7 +7524,7 @@
 		"name": "Magnus Prime Set",
 		"url_name": "magnus_prime_set",
 		"id": "6139101930dd5b004b7f909b",
-		"thumbnailURL": "items/images/en/thumbs/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.128x128.png",
 		"type": [
 			"secondary",
 			"weapon",
@@ -7686,7 +7686,7 @@
 		"name": "Ghoulsaw Set",
 		"url_name": "ghoulsaw_set",
 		"id": "61460dcde330e600455dcea3",
-		"thumbnailURL": "items/images/en/thumbs/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.128x128.png",
 		"type": [
 			"melee",
 			"weapon",
@@ -7727,7 +7727,7 @@
 		"name": "Vastilok",
 		"url_name": "vastilok",
 		"id": "6169ab3bc02a2f0045919275",
-		"thumbnailURL": "items/images/en/thumbs/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.128x128.png",
 		"type": [
 			"melee",
 			"weapon"
@@ -7739,7 +7739,7 @@
 		"name": "Knell Prime Set",
 		"url_name": "knell_prime_set",
 		"id": "61bb64fb3132ff00482b5fb2",
-		"thumbnailURL": "items/images/en/thumbs/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.128x128.png",
 		"type": [
 			"secondary",
 			"weapon",
@@ -7816,7 +7816,7 @@
 		"name": "Scourge Prime Set",
 		"url_name": "scourge_prime_set",
 		"id": "61bb64fe3132ff00482b5fcf",
-		"thumbnailURL": "items/images/en/thumbs/scourge_prime_set.0a3ad76487e9722f613f6e57e3983cbd.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/scourge_prime_set.0a3ad76487e9722f613f6e57e3983cbd.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -7878,7 +7878,7 @@
 		"name": "Corvas Prime Set",
 		"url_name": "corvas_prime_set",
 		"id": "6242037666a58f0108c3d47a",
-		"thumbnailURL": "items/images/en/thumbs/corvas_prime_set.f6bd98b0b4a2491580a40775708b21f4.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/corvas_prime_set.f6bd98b0b4a2491580a40775708b21f4.128x128.png",
 		"type": [
 			"archwing",
 			"primary",
@@ -7895,7 +7895,7 @@
 		"name": "Nagantaka Prime Set",
 		"url_name": "nagantaka_prime_set",
 		"id": "6242037666a58f0108c3d47c",
-		"thumbnailURL": "items/images/en/thumbs/nagantaka_prime_set.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/nagantaka_prime_set.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -8034,7 +8034,7 @@
 		"name": "Laetum Blueprint",
 		"url_name": "laetum_blueprint",
 		"id": "626ca573f40db600829c9d09",
-		"thumbnailURL": "items/images/en/thumbs/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.128x128.png",
 		"type": [
 			"secondary",
 			"weapon",
@@ -8075,7 +8075,7 @@
 		"name": "Praedos Blueprint",
 		"url_name": "praedos_blueprint",
 		"id": "626ca573f40db600829c9d0c",
-		"thumbnailURL": "items/images/en/thumbs/praedos_blueprint.e1da5767a0e93a169cc678f1a8bff20f.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/praedos_blueprint.e1da5767a0e93a169cc678f1a8bff20f.128x128.png",
 		"type": [
 			"melee",
 			"weapon",
@@ -8102,7 +8102,7 @@
 		"name": "Aeolak Set",
 		"url_name": "aeolak_set",
 		"id": "626ca573f40db600829c9d0e",
-		"thumbnailURL": "items/images/en/thumbs/aeolak_set.6bea718eeee31f702d625029e035b646.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/aeolak_set.6bea718eeee31f702d625029e035b646.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -8116,7 +8116,7 @@
 		"name": "Hespar Set",
 		"url_name": "hespar_set",
 		"id": "626ca573f40db600829c9d0f",
-		"thumbnailURL": "items/images/en/thumbs/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.128x128.png",
 		"type": [
 			"melee",
 			"weapon",
@@ -8158,7 +8158,7 @@
 		"name": "Phenmor Blueprint",
 		"url_name": "phenmor_blueprint",
 		"id": "626ca573f40db600829c9d12",
-		"thumbnailURL": "items/images/en/thumbs/phenmor_blueprint.4fa10f6dededc5af9b3515370302432a.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/phenmor_blueprint.4fa10f6dededc5af9b3515370302432a.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -8171,7 +8171,7 @@
 		"name": "Innodem Blueprint",
 		"url_name": "innodem_blueprint",
 		"id": "62a2b943fbd62c0038ef9a2d",
-		"thumbnailURL": "items/images/en/thumbs/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.128x128.png",
 		"type": [
 			"melee",
 			"weapon",
@@ -8184,7 +8184,7 @@
 		"name": "Felarx Blueprint",
 		"url_name": "felarx_blueprint",
 		"id": "62a2baeafbd62c00450b71d7",
-		"thumbnailURL": "items/images/en/thumbs/felarx_blueprint.053e1cdbccea41a95d0e3db9964665ff.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/felarx_blueprint.053e1cdbccea41a95d0e3db9964665ff.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -8213,7 +8213,7 @@
 		"name": "Dual Keres Prime Set",
 		"url_name": "dual_keres_prime_set",
 		"id": "62d3494075156700ce450dee",
-		"thumbnailURL": "items/images/en/thumbs/dual_keres_prime_set.ea70ac30dab8db745193cb166b246efc.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/dual_keres_prime_set.ea70ac30dab8db745193cb166b246efc.128x128.png",
 		"type": [
 			"prime",
 			"melee",
@@ -8229,7 +8229,7 @@
 		"name": "Hystrix Prime Set",
 		"url_name": "hystrix_prime_set",
 		"id": "62d3494075156700ce450df0",
-		"thumbnailURL": "items/images/en/thumbs/hystrix_prime_set.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/hystrix_prime_set.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
 		"type": [
 			"secondary",
 			"prime",
@@ -8336,7 +8336,7 @@
 		"name": "Tatsu Prime Set",
 		"url_name": "tatsu_prime_set",
 		"id": "633e2e6af570d10793afb817",
-		"thumbnailURL": "items/images/en/thumbs/tatsu_prime_set.d517fb4c89ed6076ddf26ffdb8efb88e.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/tatsu_prime_set.d517fb4c89ed6076ddf26ffdb8efb88e.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -8414,7 +8414,7 @@
 		"name": "Phantasma Prime Set",
 		"url_name": "phantasma_prime_set",
 		"id": "633e2e6bf570d10793afb821",
-		"thumbnailURL": "items/images/en/thumbs/phantasma_prime_set.a296718b56d5a40b6df80bbedeeb4b75.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/phantasma_prime_set.a296718b56d5a40b6df80bbedeeb4b75.128x128.png",
 		"type": [
 			"weapon",
 			"prime",
@@ -8460,7 +8460,7 @@
 		"name": "Vericres",
 		"url_name": "vericres",
 		"id": "636d085bd6e304004d0be569",
-		"thumbnailURL": "items/images/en/thumbs/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.128x128.png",
 		"type": [
 			"melee",
 			"weapon"
@@ -8472,7 +8472,7 @@
 		"name": "Perigale Set",
 		"url_name": "perigale_set",
 		"id": "63886516e7c988007b5bd50c",
-		"thumbnailURL": "items/images/en/thumbs/perigale_set.679b0e40d7651d8a117e07d1c7039886.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/perigale_set.679b0e40d7651d8a117e07d1c7039886.128x128.png",
 		"type": [
 			"primary",
 			"weapon",
@@ -8525,7 +8525,7 @@
 		"name": "Sarofang Set",
 		"url_name": "sarofang_set",
 		"id": "63886517e7c988007b5bd514",
-		"thumbnailURL": "items/images/en/thumbs/sarofang_set.b9dddab4cdb3312fa7a7bf8c78d82246.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/sarofang_set.b9dddab4cdb3312fa7a7bf8c78d82246.128x128.png",
 		"type": [
 			"melee",
 			"weapon",
@@ -8595,7 +8595,7 @@
 		"name": "Afuris Prime Set",
 		"url_name": "afuris_prime_set",
 		"id": "639a941c74b02f008887784c",
-		"thumbnailURL": "items/images/en/thumbs/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
 		"type": [
 			"prime",
 			"secondary",
@@ -8688,7 +8688,7 @@
 		"name": "Cobra & Crane Prime Set",
 		"url_name": "cobra_and_crane_prime_set",
 		"id": "639a941e74b02f0088877852",
-		"thumbnailURL": "items/images/en/thumbs/cobra_and_crane_prime_set.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/cobra_and_crane_prime_set.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
 		"type": [
 			"prime",
 			"weapon",
@@ -8758,7 +8758,7 @@
 		"name": "Corufell Set",
 		"url_name": "corufell_set",
 		"id": "63ee00fe10125411da49e6f1",
-		"thumbnailURL": "items/images/en/thumbs/corufell_set.1361201225387534bc5dd7896424974c.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/corufell_set.1361201225387534bc5dd7896424974c.128x128.png",
 		"type": [
 			"weapon",
 			"melee",
@@ -8826,7 +8826,7 @@
 		"name": "Larkspur Prime Set",
 		"url_name": "larkspur_prime_set",
 		"id": "641263e07d179f02100c6d45",
-		"thumbnailURL": "items/images/en/thumbs/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.128x128.png",
 		"type": [
 			"prime",
 			"archwing",
@@ -8977,7 +8977,7 @@
 		"name": "Cinta Set",
 		"url_name": "cinta_set",
 		"id": "645104637ec190030e510939",
-		"thumbnailURL": "items/images/en/thumbs/cinta_set.b194993855e39e7e4c47706e7344736e.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/cinta_set.b194993855e39e7e4c47706e7344736e.128x128.png",
 		"type": [
 			"weapon",
 			"primary",
@@ -9005,7 +9005,7 @@
 		"name": "Prisma Lenz",
 		"url_name": "prisma_lenz",
 		"id": "6467860a7ec1900db1ca9cc6",
-		"thumbnailURL": "items/images/en/thumbs/prisma_lenz.36c488cabc262314b09b01127c7fbc6f.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_lenz.36c488cabc262314b09b01127c7fbc6f.128x128.png",
 		"type": [
 			"weapon",
 			"primary"
@@ -9030,7 +9030,7 @@
 		"name": "Rauta Set",
 		"url_name": "rauta_set",
 		"id": "6493d52b7ec1902281122e73",
-		"thumbnailURL": "items/images/en/thumbs/rauta_set.cbe84e8e7131f82a5af0e4964dbbde79.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/rauta_set.cbe84e8e7131f82a5af0e4964dbbde79.128x128.png",
 		"type": [
 			"weapon",
 			"primary",
@@ -9086,7 +9086,7 @@
 		"name": "Gunsen Prime Set",
 		"url_name": "gunsen_prime_set",
 		"id": "64c2aa1466456704eba6ba2f",
-		"thumbnailURL": "items/images/en/thumbs/gunsen_prime_set.a344dbe97a8e1968c9f04f1f21145edf.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/gunsen_prime_set.a344dbe97a8e1968c9f04f1f21145edf.128x128.png",
 		"type": [
 			"melee",
 			"prime",
@@ -9148,7 +9148,7 @@
 		"name": "Fulmin Prime Set",
 		"url_name": "fulmin_prime_set",
 		"id": "64c2aa1466456704eba6ba36",
-		"thumbnailURL": "items/images/en/thumbs/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
 		"type": [
 			"primary",
 			"prime",
@@ -9209,7 +9209,7 @@
 		"name": "Prisma Ohma",
 		"url_name": "prisma_ohma",
 		"id": "64df999889997a0052defcb1",
-		"thumbnailURL": "items/images/en/thumbs/prisma_ohma.05f66ed2cfd4c0c6dfdb19ec4498cf54.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/prisma_ohma.05f66ed2cfd4c0c6dfdb19ec4498cf54.128x128.png",
 		"type": [
 			"melee",
 			"weapon"
@@ -9221,7 +9221,7 @@
 		"name": "Masseter Prime Set",
 		"url_name": "masseter_prime_set",
 		"id": "6530690f22c7fd9770508544",
-		"thumbnailURL": "items/images/en/thumbs/masseter_prime_set.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/masseter_prime_set.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png",
 		"type": [
 			"prime",
 			"melee",
@@ -9283,7 +9283,7 @@
 		"name": "Zylok Prime Set",
 		"url_name": "zylok_prime_set",
 		"id": "6530694622c7fd9770508548",
-		"thumbnailURL": "items/images/en/thumbs/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
 		"type": [
 			"prime",
 			"secondary",
@@ -9345,7 +9345,7 @@
 		"name": "Gotva Prime",
 		"url_name": "gotva_prime",
 		"id": "654500acf9c750264c9cf87b",
-		"thumbnailURL": "items/images/en/thumbs/gotva_prime.323e7113fa10a54ab363496770917b19.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/gotva_prime.323e7113fa10a54ab363496770917b19.128x128.png",
 		"type": [
 			"weapon",
 			"primary"
@@ -9357,7 +9357,7 @@
 		"name": "Mandonel Set",
 		"url_name": "mandonel_set",
 		"id": "657f14f38820fb8f3c5f4658",
-		"thumbnailURL": "items/images/en/thumbs/mandonel_set.242783b92f4aeadf1270b7012dfa9079.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/mandonel_set.242783b92f4aeadf1270b7012dfa9079.128x128.png",
 		"type": [
 			"archwing",
 			"primary",
@@ -9426,7 +9426,7 @@
 		"name": "Akarius Prime Set",
 		"url_name": "akarius_prime_set",
 		"id": "65a7fca4ed5b0d2e3eb462c9",
-		"thumbnailURL": "items/images/en/thumbs/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
 		"type": [
 			"prime",
 			"secondary",
@@ -9503,7 +9503,7 @@
 		"name": "Acceltra Prime Set",
 		"url_name": "acceltra_prime_set",
 		"id": "65a7fcc4ed5b0d2e3eb462ce",
-		"thumbnailURL": "items/images/en/thumbs/acceltra_prime_set.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/acceltra_prime_set.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
 		"type": [
 			"prime",
 			"primary",
@@ -9580,7 +9580,7 @@
 		"name": "Velox Prime Set",
 		"url_name": "velox_prime_set",
 		"id": "663267c3e85cac3856c86db3",
-		"thumbnailURL": "items/images/en/thumbs/velox_prime_set.bc5a5e03386043e26ec2a69b90cc0cad.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/velox_prime_set.bc5a5e03386043e26ec2a69b90cc0cad.128x128.png",
 		"type": [
 			"weapon",
 			"secondary",
@@ -9642,7 +9642,7 @@
 		"name": "Okina Prime Set",
 		"url_name": "okina_prime_set",
 		"id": "663268cbe85cac3856c86dbb",
-		"thumbnailURL": "items/images/en/thumbs/okina_prime_set.d93cf8091977d4c4696423b69951ff7a.128x128.png",
+		"thumbnailURL": "https://warframe.market/static/assets/items/images/en/thumbs/okina_prime_set.d93cf8091977d4c4696423b69951ff7a.128x128.png",
 		"type": [
 			"weapon",
 			"melee",

@@ -6,15 +6,133 @@
     <title>Warframe trading assitant</title>
     <!--use tailwind-->
     <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.css"
+      rel="stylesheet"
+    />
   </head>
-  <body>
-    <script src="../scripts/index.js"></script>
-    <button
-      class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
-      onclick="loadItems()"
+  <body class="bg-gray-100 text-white">
+    <!-- App Welcome Page -->
+    <nav class="bg-blue-600">
+      <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+        <div class="relative flex h-16 items-center md:justify-between">
+          <div
+            class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start"
+          >
+            <!-- logo -->
+            <div class="flex shrink-0 items-center">
+              <img
+                src="../images/logo.png"
+                class="h-11 w-11 rounded-full"
+                alt="App Logo"
+              />
+              <!-- App Title -->
+              <a
+                href="http://localhost:8000/"
+                class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"
+                >Warframe Trading Assistant</a
+              >
+            </div>
+          </div>
+          <!-- Mobile Menu -->
+          <button
+            data-collapse-toggle="navbar-default"
+            type="button"
+            class="inline-flex p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+            aria-controls="navbar-default"
+            aria-expanded="false"
+          >
+            <span class="sr-only">Open main menu</span>
+            <svg
+              class="w-5 h-5"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 17 14"
+            >
+              <path
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M1 1h15M1 7h15M1 13h15"
+              />
+            </svg>
+          </button>
+          <!-- Dynamic Top bar Navigation -->
+          <div
+            class="flex absolute hidden w-full md:block md:w-auto right-0"
+            id="navbar-default"
+          >
+            <ul
+              class="flex flex-col p-4 mt-7 md:p-0 absolute md:static top-0 right-0 border border-gray-100 rounded-lg md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 bg-gray-700 md:bg-transparent"
+            >
+              <li>
+                <a
+                  href="http://localhost:8000/"
+                  class="block py-2 px-3 text-white rounded-sm hover:bg-gray-400 md:hover:bg-transparent md:border-0 md:hover:text-yellow-400 md:p-0"
+                  aria-current="page"
+                  >Home</a
+                >
+              </li>
+              <li>
+                <a
+                  href="#"
+                  class="block py-2 px-3 text-white rounded-sm hover:bg-gray-400 md:hover:bg-transparent md:border-0 md:hover:text-yellow-400 md:p-0"
+                  >Profile</a
+                >
+              </li>
+              <li>
+                <a
+                  href="http://localhost:8000/table_data/"
+                  class="block py-2 px-3 text-white rounded-sm hover:bg-gray-400 md:hover:bg-transparent md:border-0 md:hover:text-yellow-400 md:p-0"
+                  >Trade Data</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- Main Body -->
+    <main
+      class="h-screen px-6 pt-38 lg:px-8 bg-cover bg-center bg-no-repeat bg-[url('../images/inspirationalbg.jpg')] bg-gray-700 bg-blend-multiply"
     >
-      Load item db
-    </button>
-    
+      <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
+        <h1
+          class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl"
+        >
+          Ready to start your Warframe trading journey?
+        </h1>
+        <p
+          class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48"
+        >
+          with the Warframe Trading Assistant, you can easily find the best
+          selling items on the market
+        </p>
+        <div
+          class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0"
+        >
+          <a
+            href="http://localhost:8000/table_data/"
+            class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
+          >
+            Get started
+          </a>
+        </div>
+      </div>
+    </main>
+    <!-- Footer -->
+    <footer class="bg-white shadow-sm m-0 dark:bg-gray-800">
+      <div
+        class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between"
+      >
+        <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400"
+          >© Zhong En
+        </span>
+      </div>
+    </footer>
+    <!-- scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
   </body>
 </html>

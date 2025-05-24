@@ -8,10 +8,10 @@ export default class Relics extends TradeableItems {
     name,
     url_name,
     id,
+    type,
     average_platinum_price,
     thumbnailURL,
     date_updated,
-    type = "relic"
   ) {
     super(name, url_name, id);
     this.type = type;
@@ -39,6 +39,7 @@ export default class Relics extends TradeableItems {
           data.forEach((relics) => {
             if (relics.name === this.name) {
               //only price data may vary, other data is static
+              relics.thumbnailURL = this.thumbnailURL;
               relics.average_platinum_price = this.average_platinum_price;
               relics.date_updated = this.date_updated;
               hasUpdated = true;
@@ -62,3 +63,46 @@ export default class Relics extends TradeableItems {
       });
   };
 }
+
+
+export const getSpecificRelic = async (name) => {
+  let result = [];
+  const data = await fsa.readFile(
+    "./json_data/relics.json",
+    "utf8",
+    (err, data) => {
+      if (err) {
+        console.log("Error reading file", err);
+        return null;
+      }
+      return data;
+    }
+  );
+  if (data !== null && data !== undefined) {
+    const relics = JSON.parse(data);
+    for await (const relic of relics) {
+      if (relic.name.toLowerCase().includes(name.toLowerCase())) {
+        result.push(relic);
+      }
+    }
+  }
+  return result;
+};
+
+
+export const getAllRelics = async () => {
+  let result = [];
+  const data = await fs.readFile(
+    "./json_data/relics.json",
+    "utf8",
+    (err, data) => {
+      if (err) {
+        console.log("Error reading file", err);
+        return null;
+      }
+      return data;
+    }
+  );
+  result = JSON.parse(data);
+  return result;
+};

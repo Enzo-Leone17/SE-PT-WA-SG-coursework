@@ -44,6 +44,7 @@ export default class Weapons extends TradeableItems {
           data.forEach((weapons) => {
             if (weapons.name === this.name) {
               //only price data may vary, other data is static
+              weapons.thumbnailURL = this.thumbnailURL;
               weapons.average_platinum_price = this.average_platinum_price;
               weapons.ducat_value = this.ducat_value;
               weapons.date_updated = this.date_updated;
@@ -68,3 +69,46 @@ export default class Weapons extends TradeableItems {
       });
   };
 }
+
+
+export const getSpecificWeapon = async (name) => {
+  let result = [];
+  const data = await fsa.readFile(
+    "./json_data/weapons.json",
+    "utf8",
+    (err, data) => {
+      if (err) {
+        console.log("Error reading file", err);
+        return null;
+      }
+      return data;
+    }
+  );
+  if (data !== null && data !== undefined) {
+    const weapons = JSON.parse(data);
+    for await (const weapon of weapons) {
+      if (weapon.name.toLowerCase().includes(name.toLowerCase())) {
+        result.push(weapon);
+      }
+    }
+  }
+  return result;
+};
+
+
+export const getAllWeapons = async () => {
+  let result = [];
+  const data = await fs.readFile(
+    "./json_data/weapons.json",
+    "utf8",
+    (err, data) => {
+      if (err) {
+        console.log("Error reading file", err);
+        return null;
+      }
+      return data;
+    }
+  );
+  result = JSON.parse(data);
+  return result;
+};

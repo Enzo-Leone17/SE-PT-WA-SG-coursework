@@ -43,6 +43,7 @@ export default class Warframes extends TradeableItems {
           data.forEach((warframe) => {
             if (warframe.name === this.name) {
               //only price data may vary, other data is static
+              warframe.thumbnailURL = this.thumbnailURL;
               warframe.average_platinum_price = this.average_platinum_price;
               warframe.ducat_value = this.ducat_value;
               warframe.date_updated = this.date_updated;
@@ -53,6 +54,7 @@ export default class Warframes extends TradeableItems {
           if (!hasUpdated) {
             //if data not updated, append new data
             newData.push(this);
+            console.log(this.name);
           }
           fs.writeFile(
             "./json_data/warframes.json",
@@ -67,3 +69,46 @@ export default class Warframes extends TradeableItems {
       });
   };
 }
+
+
+export const getSpecificWarframe = async (name) => {
+  let result = [];
+  const data = await fs.readFile(
+    "./json_data/warframes.json",
+    "utf8",
+    (err, data) => {
+      if (err) {
+        console.log("Error reading file", err);
+        return null;
+      }
+      return data;
+    }
+  );
+  if (data !== null && data !== undefined) {
+    const warframes = JSON.parse(data);
+    for await (const warframe of warframes) {
+      if (warframe.name.toLowerCase().includes(name.toLowerCase())) {
+        result.push(warframe);
+      }
+    }
+  }
+  return result;
+};
+
+
+export const getAllWarframes = async () => {
+  let result = [];
+  const data = await fs.readFile(
+    "./json_data/warframes.json",
+    "utf8",
+    (err, data) => {
+      if (err) {
+        console.log("Error reading file", err);
+        return null;
+      }
+      return data;
+    }
+  );
+  result = JSON.parse(data);
+  return result;
+};
