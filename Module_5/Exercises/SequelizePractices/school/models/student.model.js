@@ -37,14 +37,7 @@ const Student = sequelize.define(
   }
 );
 
-Student.hasMany(Enrollment, { foreignKey: "student_id" });
-Enrollment.belongsTo(Student, { foreignKey: "student_id" });
 
-Student.belongsToMany(Course, {
-  through: Enrollment,
-  foreignKey: "student_id",
-  otherKey: "course_id",
-});
 
 
 module.exports = Student;

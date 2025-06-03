@@ -2,7 +2,7 @@ const { DataTypes } = require("sequelize");
 const sequelize = require("../config/database");
 
 const Professor = require("./professor.model");
-const Enrollment = require("./enrollment.model");
+
 
 
 const Course = sequelize.define(
@@ -43,9 +43,6 @@ const Course = sequelize.define(
     timestamps: false,
   }
 );
-
-Course.hasMany(Enrollment, { foreignKey: "course_id" });
-Enrollment.belongsTo(Course, { foreignKey: "course_id" });
 
 Course.belongsTo(Professor, { foreignKey: "professor_id" });
 Professor.hasMany(Course, { foreignKey: "professor_id" });
