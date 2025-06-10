@@ -4,5 +4,6 @@ const courseContoller = require("../controllers/course.controller");
 
 
 router.get("/:id/enrollments",  courseContoller.getEnrollmentByCourseID);
+router.post("/", courseContoller.createCourse);
 
 module.exports = router;

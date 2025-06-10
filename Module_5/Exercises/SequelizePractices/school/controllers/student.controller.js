@@ -16,7 +16,7 @@ exports.getAllStudents = async (req, res) => {
             {
               model: Course,
               where: { is_deleted: false },
-              required: true,
+              required: false,
               include: [
                 {
                   model: Professor,
@@ -47,4 +47,61 @@ exports.getStudentById = async (req, res) => {
   }
 };
 
+exports.getStudentsByQuery = async (req, res) => {
+  let queryObj = {};
+  if (Object.keys(req.query).length !== 0) {
+    if (req.query.full_name) {
+      queryObj.full_name = req.query.full_name;
+    }
+    if (req.query.enrollment_year) {
+      queryObj.enrollment_year = req.query.enrollment_year;
+    }
+    if (req.query.student_id) {
+      queryObj.student_id = req.query.student_id;
+    }
 
+    try {
+      const students = await Student.findAll({
+        include: [
+          {
+            model: Course,
+            through: {
+              model: Enrollment,
+              where: req.query.grade ? { grade: req.query.grade } : {},
+            },
+            attributes: ["course_id", "course_code", "title"],
+          },
+        ],
+        where: queryObj,
+        attributes: ["student_id", "full_name", "enrollment_year"],
+      });
+
+      res.json(students);
+    } catch (err) {
+      res.status(500).json({ error: err.message });
+    }
+  } else {
+    this.getAllStudents(req, res);
+  }
+};
+
+exports.createStudent = async (req, res) => {
+  try {
+    console.log(req.body);
+    const { full_name, enrollment_year } = req.body;
+
+    // Create a new student
+    const newStudent = await Student.create({
+      full_name,
+      enrollment_year,
+    });
+
+    if (!newStudent) {
+      return res.status(400).json({ error: "Failed to create student" });
+    }
+
+    res.status(201).json("New student created successfully");
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};

@@ -12,7 +12,7 @@ exports.getEnrollmentByCourseID = async (req, res) => {
         {
           model: Student,
           where: { is_deleted: false },
-          required: true,
+          required: false,
           attributes: ["student_id", "full_name", "enrollment_year"],
         },
       ],
@@ -22,6 +22,17 @@ exports.getEnrollmentByCourseID = async (req, res) => {
     enrollments.length > 0
       ? res.json(enrollments)
       : res.status(404).json({ message: "No enrollments found" });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
+
+
+exports.createCourse = async (req, res) => {
+  try {
+    const { course_code, title, credit_hours, professor_id } = req.body;
+    const newCourse = await Course.create({ course_code, title, credit_hours, professor_id });
+    res.status(201).json(`new course ${newCourse.title} of ${newCourse.course_code} created successfully`);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

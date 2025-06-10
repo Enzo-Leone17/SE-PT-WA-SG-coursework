@@ -12,13 +12,13 @@ exports.getAllEnrollments = async (req, res) => {
         {
           model: Student,
           where: { is_deleted: false },
-          required: true,
+          required: false,
           attributes: ["student_id", "full_name", "enrollment_year"],
         },
         {
           model: Course,
           where: { is_deleted: false },
-          required: true,
+          required: false,
           attributes: ["course_id", "course_code", "title"],
         },
       ],
