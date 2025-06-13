@@ -1,0 +1,27 @@
+.square-slider {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: background-color 0.5s ease-in-out;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    animation: sliding 1s infinite;
+}
+
+
+@keyframes sliding {
+    from {
+        top: 0;
+        background-color: red;
+    }
+    50% {
+        top: calc(100% - 100px);
+        background-color: blue;
+    }
+    to {    
+        top: 0%;
+        background-color: red;
+    }
+    
+}

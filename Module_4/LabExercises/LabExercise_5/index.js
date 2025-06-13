@@ -41,6 +41,7 @@ const editNews = () => {;
   });
 };
 
+//create element for user to edit values for a new "news"
 const createNews = () => {
   updatedNewsId += 1;
   const template = newsEditTemplate.content.cloneNode(true);
@@ -51,6 +52,9 @@ const createNews = () => {
   newsEditList.appendChild(template);
 };
 
+
+//validates all values to check for edits, if successful (format correct: title:Sample...\ncontent:Sample...)
+//confirm and update news list
 const confirmEdit = () => {
   news.forEach((item) => {
     let title = document
@@ -94,7 +98,7 @@ let refreshNews = setInterval(() => {
   displayNews();
 }, 5000);
 
-
+//toggle the auto refresher
 const toggleNewsRefresh = () => {
   if (refreshNews !== '') {
     clearInterval(refreshNews);
