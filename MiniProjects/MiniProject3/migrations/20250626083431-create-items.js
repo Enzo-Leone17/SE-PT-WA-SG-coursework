@@ -17,7 +17,10 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER,
       },
-      description: Sequelize.TEXT,
+      description: {
+        allowNull: false,
+        type: Sequelize.TEXT,      
+      },
       quantity: {
         allowNull: false,
         type: Sequelize.INTEGER,      

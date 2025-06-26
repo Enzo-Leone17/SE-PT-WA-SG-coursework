@@ -1,7 +1,13 @@
 //require models
-const { Assignment, Task, Manager, Staff, User } = require("../models");
-
-const { sequelize, where } = require("sequelize");
+const {
+  Assignment,
+  Task,
+  Manager,
+  Staff,
+  User,
+  sequelize,
+} = require("../models");
+const staff = require("../models/staff");
 
 module.exports = {
   //#region getAllStaffs
@@ -75,22 +81,37 @@ module.exports = {
     }
   },
   createStaff: async (req, res) => {
+    const t = await sequelize.transaction();
+    const {
+      email,
+      username,
+      password,
+      role,
+      full_name,
+      phone,
+      has_forklift_license,
+      has_punched_in,
+    } = req.body;
     try {
-      const t = await sequelize.transaction();
-      const {
-        email,
-        username,
-        password,
-        role,
-        full_name,
-        phone,
-        has_forklift_license,
-        has_punched_in,
-      } = req.body;
       if (!email) {
         throw new Error("Email is required");
       } else if (!username) {
         throw new Error("Username is required");
+      }
+      const existingEmail = await User.findOne({
+        where: {
+          email,
+        },
+      })
+      const existingUsername = await User.findOne({
+        where: {
+          username,
+        },
+      })
+      if (existingEmail) {
+        throw new Error("This email has already been registered, please login instead");
+      } else if (existingUsername) {
+        throw new Error(`The username ${username} has already been used, please try another username`);
       } else if (!password) {
         throw new Error("password is required");
       } else if (!full_name) {
@@ -127,38 +148,53 @@ module.exports = {
     }
   },
   updateStaffByID: async (req, res) => {
+    const t = await sequelize.transaction();
     try {
       const { id } = req.params;
       if (!id || isNaN(Number(id))) {
         return res.status(400).json({ error: "Valid staff ID is required" });
       }
-      const updatedStaff = await Staff.update(req.body, { where: { id } });
+      const hasStaff = await Staff.findOne({ where: { id: id, is_deleted: false } }, { transaction: t });
+      if(!hasStaff) {
+        return res.status(404).json({ error: "Failed to find staff" });
+      }
+      await Staff.update(req.body, { where: { id , is_deleted: false} }, { transaction: t });
+      await t.commit();
       res.status(200).json("Successfully updated staff id:" + id);
     } catch (err) {
+      await t.rollback();
       res.status(500).json({ error: err.message });
     }
   },
   deleteStaffByID: async (req, res) => {
+    const t = await sequelize.transaction();
+    const { id } = req.params;
     try {
-      const { id } = req.params;
       if (!id || isNaN(Number(id))) {
         return res.status(400).json({ error: "Valid staff ID is required" });
       }
-      //const t = await sequelize.transaction();
-      const deletedStaff = await Staff.update(
+      //soft delete staff by id
+      await Staff.update(
         { is_deleted: true },
         { where: { id } },
-        //{ transaction: t }
+        { transaction: t }
       );
-      const deletedUser = await User.update(
+      //find dependencies of deleted staff
+      const deletedStaff = await Staff.findByPk(id, { transaction: t });
+      await User.update(
         { is_deleted: true },
-        { where: { id } },
-        //{ transaction: t }
+        { where: { id: deletedStaff.user_id } },
+        { transaction: t }
       );
-      //t.commit();
+      await Assignment.update(
+        { is_deleted: true, status: "cancelled" },
+        { where: { staff_id: id } },
+        { transaction: t }
+      );
+      await t.commit();
       res.status(200).json("Successfully removed staff id:" + id);
     } catch (err) {
-      //await t.rollback();
+      await t.rollback();
       res.status(500).json({ error: err.message });
     }
   },

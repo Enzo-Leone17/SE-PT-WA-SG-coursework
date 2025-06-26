@@ -54,14 +54,14 @@ db.Task.belongsTo(db.Manager, { foreignKey: "manager_id" });
 //#endregion
 
 //#region tasks <-|-> bin <-|-> items associations
-db.Task.hasOne(db.Item, { foreignKey: "item_id" });
-db.Task.hasOne(db.BinLocation, { foreignKey: "destination_bin_id" });
+db.Task.belongsTo(db.Item, { foreignKey: "item_id" });
+db.Task.belongsTo(db.BinLocation, { foreignKey: "destination_bin_id" });
 
 db.Item.hasOne(db.Task, { foreignKey: "item_id" });
 db.Item.hasOne(db.BinLocation, { foreignKey: "item_id" });
 
 db.BinLocation.hasOne(db.Task, { foreignKey: "destination_bin_id" });
-db.BinLocation.hasOne(db.Item, { foreignKey: "item_id" });
+db.BinLocation.belongsTo(db.Item, { foreignKey: "item_id" });
 //#endregion
 
 //#endregion
