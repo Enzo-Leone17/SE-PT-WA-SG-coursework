@@ -1,0 +1,77 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "My Ecommerce Project",
+    "description": "API exercise simulating Ecommerce functions, data from fakestore API",
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "host": "localhost:8000",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "Ecommerce",
+      "description": "API for simulating Ecommerce with fake store products"
+    }
+  ],
+  "schemes": ["http"],
+  "consumes": ["application/json"],
+  "produces": ["application/json"],
+  "paths": {
+    "/storeAPI/allProducts": {
+      "get": {
+        "tags": ["Products Service"],
+        "summary": "Display all products",
+        "responses": {
+          "200": {
+            "description": "This service allows you to get all products"
+          }
+        }
+      }
+    },
+    "/storeAPI/filter": {
+      "get": {
+        "tags": ["Products Service"],
+        "summary": "Apply filters to sort products",
+        "parameters": [
+          {
+            "name": "filter",
+            "in": "query",
+            "description": "The category of the product"
+          },
+          {
+            "name": "sort",
+            "in": "query",
+            "description": "Sort the results by alphabetical or price, ascending or descending"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "This service allows you to filter and sort products"
+          }
+        }
+      }
+    },
+    "/storeAPI/search": {
+      "get": {
+        "tags": ["Products Service"],
+        "summary": "Search for product/s matching the query parameter",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "description": "Search for product/s with name containing the query parameter"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "This service allows you to search for product/s"
+          }
+        }
+      }
+    }
+  }
+}
