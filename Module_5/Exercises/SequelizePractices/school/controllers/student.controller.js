@@ -59,7 +59,6 @@ exports.getStudentsByQuery = async (req, res) => {
     if (req.query.student_id) {
       queryObj.student_id = req.query.student_id;
     }
-
     try {
       const students = await Student.findAll({
         include: [
@@ -68,7 +67,9 @@ exports.getStudentsByQuery = async (req, res) => {
             through: {
               model: Enrollment,
               where: req.query.grade ? { grade: req.query.grade } : {},
+              required: req.query.grade !== undefined ? true : false,
             },
+            required: req.query.grade !== undefined ? true : false,
             attributes: ["course_id", "course_code", "title"],
           },
         ],
@@ -87,7 +88,8 @@ exports.getStudentsByQuery = async (req, res) => {
 
 exports.createStudent = async (req, res) => {
   try {
-    console.log(req.body);
+    //dynamic logic for >1 field
+    
     const { full_name, enrollment_year } = req.body;
 
     // Create a new student
