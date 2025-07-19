@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-practice",
+  "version": "1.0.0",
+  "description": "API simulating Ecommerce using fakestore API data",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
