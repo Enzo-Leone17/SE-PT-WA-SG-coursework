@@ -6,8 +6,9 @@ module.exports = (sequelize, DataTypes) => {
       manager_id: DataTypes.INTEGER, //manager overseeing the task 
       item_id: DataTypes.INTEGER,
       destination_bin_id: DataTypes.INTEGER,
-      status: { type: DataTypes.ENUM("opened", "cancelled", "closed"), defaultValue: "opened" },
+      status: { type: DataTypes.ENUM("opened", "pending", "cancelled", "closed"), defaultValue: "opened" },
       description: { type: DataTypes.TEXT, defaultValue: "No Description provided" },
+      notes: { type: DataTypes.TEXT, defaultValue: "Important Notes: " },
       require_forklift: { type: DataTypes.BOOLEAN, defaultValue: false },
       is_deleted: { type: DataTypes.BOOLEAN, defaultValue: false },
     },

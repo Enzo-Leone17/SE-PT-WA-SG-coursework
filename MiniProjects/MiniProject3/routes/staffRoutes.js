@@ -7,6 +7,7 @@ const staffController = require("../controllers/staff.controller");
 
 router.get("/",  staffController.getAllStaffs);
 router.get("/:id/assignments", staffController.getAssignmentsToStaffID);
+router.get("/user/:id/assignments", staffController.getAssignmentsToStaffByUserID);
 router.post("/", staffController.createStaff);
 router.put("/:id", staffController.updateStaffByID);
 router.put("/:id/delete", staffController.deleteStaffByID);

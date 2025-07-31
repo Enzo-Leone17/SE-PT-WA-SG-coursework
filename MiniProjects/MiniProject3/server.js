@@ -22,12 +22,14 @@ const assignmentRoutes = require("./routes/assignmentRoutes");
 const taskRoutes = require("./routes/taskRoutes");
 const itemRoutes = require("./routes/itemRoutes");
 const bin_locationRoutes = require("./routes/bin_locationRoutes");
+const authRoutes = require("./routes/authRoutes");
 app.use("/api/warehouse/staffs", staffRoutes);
-// app.use("/api/warehouse/managers", managerRoutes);
-// app.use("/api/warehouse/assignments", assignmentRoutes);
-// app.use("/api/warehouse/tasks", taskRoutes);
+app.use("/api/warehouse/managers", managerRoutes);
+app.use("/api/warehouse/assignments", assignmentRoutes);
+app.use("/api/warehouse/tasks", taskRoutes);
 app.use("/api/warehouse/items", itemRoutes);
-// app.use("/api/warehouse/bin_locations", bin_locationRoutes);
+app.use("/api/warehouse/bin_locations", bin_locationRoutes);
+app.use("/api/warehouse/auth", authRoutes);
 
 
 // Connect to DB

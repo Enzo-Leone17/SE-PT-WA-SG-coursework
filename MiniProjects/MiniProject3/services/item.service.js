@@ -1,6 +1,7 @@
 //require models
 const { Item, BinLocation, sequelize, Task, Assignment } = require("../models");
 const item = require("../models/item");
+const { Op } = require("sequelize");
 
 module.exports = {
   //#region getAllItems
@@ -10,18 +11,52 @@ module.exports = {
       const limit = parseInt(req.query.limit) || 10;
       const offset = (page - 1) * limit;
 
+      //#region adding filter, sort and search
+
+      //filter
+      const filterQuery = {};
+      filterQuery.is_deleted = false;
+
+      [
+        { name: "storage_type", validQuery: ["small", "medium", "big"] },
+        { name: "movement_type", validQuery: ["slow", "fast"] },
+      ].map((field) => {
+        if (req.query[field.name] && field.validQuery.includes(req.query[field.name].toLowerCase())) {
+          filterQuery[field.name] = req.query[field.name].toLowerCase();
+        }
+      });
+
+      //sort
+      const sortBy = req.query.sortBy;
+      const sortOrder = req.query.sortOrder?.toUpperCase();
+      const validQuery = ["id", "description", "quantity", "storage_type", "movement_type"];
+      if (sortBy && !validQuery.includes(sortBy)) {
+        return res.status(400).json({ error: "Invalid sort field" });
+      } else if (sortOrder && !["ASC", "DESC"].includes(sortOrder)) {
+        return res.status(400).json({ error: "Invalid sort order" });
+      }
+
+      //search
+      if (req.query.search) {
+        filterQuery[Op.or] = [
+          { description: { [Op.like]: `%${req.query.search}%` } },
+          { quantity: { [Op.like]: `%${req.query.search}%` } },
+        ];
+      }
+
+      //#endregion
+
       const { count, rows: items } = await Item.findAndCountAll({
         include: [
           {
             model: BinLocation,
-            required: false,
+            required: req.query?.include_BinLocation ? true : false,
           },
         ],
         limit,
         offset,
-        where: {
-          is_deleted: false,
-        },
+        where: filterQuery,
+        order: [[sortBy? sortBy : "id", sortOrder? sortOrder : "ASC"]],
       });
       const results = {
         total: count,
@@ -83,7 +118,11 @@ module.exports = {
   //#endregion
   //#region createItem
   createItem: async (req, res) => {
-    const { description, quantity, storage_type, movement_type } = req.body;
+    // const { description, quantity, storage_type, movement_type } = req.body;
+    const description = req?.body?.description || null;
+    const quantity = req?.body?.quantity || null;
+    const storage_type = req?.body?.storage_type || undefined;
+    const movement_type = req?.body?.movement_type || undefined;
     try {
       if (!description) {
         throw new Error("Item description is required");
@@ -108,7 +147,7 @@ module.exports = {
   //#region updateItem
   updateItemQuantityByID: async (req, res) => {
     const { id } = req.params;
-    const { quantity } = req.body;
+    const quantity = req?.body?.quantity || null;
     const t = await sequelize.transaction();
     try {
       if (!id || isNaN(Number(id))) {
@@ -150,8 +189,9 @@ module.exports = {
           { transaction: t }
         );
         const deletedTask = await Task.findOne(
-        { where: { item_id: id } },
-        { transaction: t });
+          { where: { item_id: id } },
+          { transaction: t }
+        );
 
         if (deletedTask !== undefined && deletedTask !== null) {
           await Assignment.update(
@@ -183,7 +223,8 @@ module.exports = {
   //#region updateItemTypingByID
   updateItemTypingByID: async (req, res) => {
     const { id } = req.params;
-    const { storage_type, movement_type } = req.body;
+    const storage_type = req?.body?.storage_type || undefined;
+    const movement_type = req?.body?.movement_type || undefined;
     const t = await sequelize.transaction();
     try {
       //validations
@@ -194,15 +235,20 @@ module.exports = {
           "Item typing ('storage_type' or 'movement_type') is required"
         );
       }
-      if(storage_type && storage_type !== "small" && storage_type !== "medium" && storage_type !== "big"){
-        throw new Error(
-          "Item typing ('storage_type') is invalid"
-        );
+      if (
+        storage_type &&
+        storage_type !== "small" &&
+        storage_type !== "medium" &&
+        storage_type !== "big"
+      ) {
+        throw new Error("Item typing ('storage_type') is invalid");
       }
-      if(movement_type && movement_type !== "slow" && movement_type !== "fast"){
-        throw new Error(
-          "Item typing ('movement_type') is invalid"
-        );
+      if (
+        movement_type &&
+        movement_type !== "slow" &&
+        movement_type !== "fast"
+      ) {
+        throw new Error("Item typing ('movement_type') is invalid");
       }
       const existingItem = await Item.findOne(
         { where: { id, is_deleted: false } },
@@ -212,12 +258,8 @@ module.exports = {
         return res.status(404).json({ error: "Failed to find item" });
       }
       let parameters = {};
-      movement_type
-        ? (parameters.movement_type = movement_type)
-        : null;
-      storage_type
-        ? (parameters.storage_type = storage_type)
-        : null;
+      movement_type ? (parameters.movement_type = movement_type) : null;
+      storage_type ? (parameters.storage_type = storage_type) : null;
       await Item.update(
         parameters,
         { where: { id, is_deleted: false } },
@@ -262,8 +304,12 @@ module.exports = {
 
       await Task.update(
         {
-          status: "cancelled",
-          is_deleted: true,
+          status: "pending",
+          notes: sequelize.fn(
+            "CONCAT",
+            sequelize.col("notes"),
+            " (Item removed) "
+          ),
         },
         { where: { item_id: id } },
         { transaction: t }
@@ -271,7 +317,8 @@ module.exports = {
 
       const deletedTask = await Task.findOne(
         { where: { item_id: id } },
-        { transaction: t });
+        { transaction: t }
+      );
 
       if (deletedTask !== undefined && deletedTask !== null) {
         await Assignment.update(

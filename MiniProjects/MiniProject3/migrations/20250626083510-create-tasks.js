@@ -34,13 +34,18 @@ module.exports = {
       },
       status: {
         allowNull: false,
-        type: Sequelize.ENUM("opened", "cancelled", "closed"),
+        type: Sequelize.ENUM("opened", "pending", "cancelled", "closed"),
         defaultValue: "opened",
       },
       description: {
         allowNull: false,
         type: Sequelize.TEXT,
         defaultValue: "No Description provided",
+      },
+      notes: {
+        allowNull: false,
+        type: Sequelize.TEXT,
+        defaultValue: "Important Notes: ",
       },
       require_forklift: {
         allowNull: false,

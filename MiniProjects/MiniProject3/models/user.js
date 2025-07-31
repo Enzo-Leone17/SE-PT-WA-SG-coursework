@@ -17,10 +17,9 @@ module.exports = (sequelize, DataTypes) => {
       timestamps: true,
     } 
   );
-//     User.associate = function (models) {
-//     User.hasOne(models.Doctor, { foreignKey: "user_id", as: "doctorProfile" });
-//     User.hasMany(models.RefreshToken, { foreignKey: "user_id", as: "tokens" });
-//   };
+    User.associate = function (models) {
+    User.hasMany(models.RefreshToken, { foreignKey: "user_id", as: "tokens" });
+  };
 
   return User;
 };

@@ -22,6 +22,16 @@ module.exports = {
             res.status(500).json({ error: error.message });
         }
     },
+    getAssignmentsToStaffByUserID: async (req, res) => {
+        try {
+            const assignments = await staffService.getAssignmentsToStaffByUserID(
+                req, res
+            );
+            res.status(200).json(assignments);
+        } catch (error) {
+            res.status(500).json({ error: error.message });
+        }
+    },
     createStaff: async (req, res) => {
         try {
             const newStaff = await staffService.createStaff(req, res);

@@ -21,6 +21,7 @@ db.Task = require("./task")(sequelize, DataTypes);
 db.Assignment = require("./assignment")(sequelize, DataTypes);
 db.Item = require("./item")(sequelize, DataTypes);
 db.BinLocation = require("./bin_location")(sequelize, DataTypes);
+db.RefreshToken = require("./refreshToken")(sequelize, DataTypes);
 
 //#region Associations
 
@@ -63,6 +64,9 @@ db.Item.hasOne(db.BinLocation, { foreignKey: "item_id" });
 db.BinLocation.hasOne(db.Task, { foreignKey: "destination_bin_id" });
 db.BinLocation.belongsTo(db.Item, { foreignKey: "item_id" });
 //#endregion
+
+db.User.hasMany(db.RefreshToken, { foreignKey: "user_id", as: "tokens" });
+db.RefreshToken.belongsTo(db.User, { foreignKey: "user_id", as: "user" });
 
 //#endregion
 
